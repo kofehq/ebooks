@@ -1,30 +1,246 @@
-<!doctype html>
+<!DOCTYPE html>
+<html>
 
-<html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8">
+<title>210723_Desaforismos</title>
 
-  <title>A Basic HTML5 Template</title>
-  <meta name="description" content="A simple HTML5 Template for new projects.">
-  <meta name="author" content="SitePoint">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, viewport-fit=cover">
 
-  <meta property="og:title" content="A Basic HTML5 Template">
-  <meta property="og:type" content="website">
-  <meta property="og:url" content="https://www.sitepoint.com/a-basic-html5-template/">
-  <meta property="og:description" content="A simple HTML5 Template for new projects.">
-  <meta property="og:image" content="image.png">
+<script src="js/jquery.min.js"></script>
+<script src="js/jquery.transit.min.js"></script>
+<script src="js/scripts.js"></script>
 
-  <link rel="icon" href="/favicon.ico">
-  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
-  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<script src="js/underscore-min.js"></script>
+<script src="js/blazy.min.js"></script>
+<script src="Payload/settings.js"></script>
+<script src="Payload/renditions-mobile.js"></script>
+<script src="Payload/renditions-desktop.js"></script>
+<script src="js/app.js"></script>
 
-  <link rel="stylesheet" href="css/styles.css?v=1.0">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+  integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
+  integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous">
+</script>
 
+<link rel="stylesheet" href="css/styles.css">
+<link rel="stylesheet" href="css/custom.css">
+<link rel="icon" type="image/png" href="images/favicon.png">
+
+<script src="js/custom.js"></script>
 </head>
 
 <body>
-  Livro desaforismos V1
-  <script src="js/scripts.js"></script>
+
+<div id="spread" style="display: none;">
+
+  <div id="container">
+
+    <div id="ReaderLeftThumbnailOneColumn" class="ReaderColumn">
+      <div id="ReaderLeftThumbnailOne" class="ReaderPageWrapper"></div>
+    </div>
+    <div id="ReaderLeftThumbnailTwoColumn" class="ReaderColumn">
+      <div id="ReaderLeftThumbnailTwo" class="ReaderPageWrapper"></div>
+    </div>
+
+    <div id="ReaderPageOneColumn" class="ReaderColumn">
+      <div id="ReaderPageOneWrapper" class="ReaderPageWrapper">
+        <div class="SCLoader" style="display: none;"><div class="clear-loading loading-effect-1"><span></span><span></span><span></span></div></div>
+        <iframe id="ReaderPageOne" src="" class="ReaderPage" allow="autoplay; fullscreen"></iframe>
+      </div>
+    </div>
+    <div id="ReaderPageTwoColumn" class="ReaderColumn">
+      <div id="ReaderPageTwoWrapper" class="ReaderPageWrapper">
+        <div class="SCLoader" style="display: none;"><div class="clear-loading loading-effect-1"><span></span><span></span><span></span></div></div>
+        <iframe id="ReaderPageTwo" src="" class="ReaderPage" allow="autoplay; fullscreen"></iframe>
+      </div>
+    </div>
+
+    <div id="ReaderRightThumbnailOneColumn" class="ReaderColumn">
+      <div id="ReaderRightThumbnailOne" class="ReaderPageWrapper"></div>
+    </div>
+    <div id="ReaderRightThumbnailTwoColumn" class="ReaderColumn">
+      <div id="ReaderRightThumbnailTwo" class="ReaderPageWrapper"></div>
+    </div>
+
+  </div>
+
+</div>
+
+<div id="overlay"></div>
+<nav id="navigation" aria-label="Navigation Arrows">
+  <div id="previousPageBtn" class="navArrow" style="display: none;" role="button" aria-label="Previous Page">
+    <div class="icon"></div>
+  </div>
+  <div id="nextPageBtn" class="navArrow" style="display: none;" role="button" aria-label="Next Page">
+    <div class="icon"></div>
+  </div>
+</nav>
+
+<div id="xreaderUI" style="display: none;">
+  <div id="xreaderTopMenuView" role="region" aria-label="Menu">
+    <audio id="soundtrackAudioPlayer" style="display: none;" controls loop></audio>
+    <audio id="readaloudAudioPlayer" style="display: none;" controls></audio>
+    <div class="xr-controls">
+      <div id="tocBtn" class="xr-btn" role="button" data-toggle="modal" data-target="#tocModal" ></div>
+      <div id="audioControlsBtn" class="xr-btn" role="button" data-toggle="modal" data-target="#audioControlsModal" ></div>
+      <div id="languageBtn" class="xr-btn" role="button" data-toggle="modal" data-target="#languageControlsModal" ></div>
+    </div>
+  </div>
+  <nav id="xreaderBottomMenuView" class="pagesThumbnailsContainer" aria-label="Pages List">
+  </nav>
+</div>
+
+
+<!-- TOC -->
+<div class="modal fade" id="tocModal" tabindex="-1" role="dialog" aria-labelledby="Table of Contents"
+  aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Table of Contents</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <div id="chapterSelector" class="list-group list-group-flush"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- Language Controls -->
+<div class="modal fade" id="languageControlsModal" tabindex="-1" role="dialog" aria-labelledby="Language"
+  aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Language</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <div id="languageSelector" class="list-group list-group-flush"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- Audio Controls -->
+<div class="modal fade" id="audioControlsModal" tabindex="-1" role="dialog" aria-labelledby="Audio Controls"
+  aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Audio</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+
+        <div id="readaloudSettingsContainer" class="container">
+          <h6>Read Aloud</h6>
+          <div class="row row-cols-12 xr-group">
+            <div class="col">
+
+              <div class="row row-cols-12">
+                <div class="col">
+                  <div class="audio-slider">
+                    <img width="22" height="22" srcset="images/xr_Volume.png 1x, images/xr_Volume@2x.png 2x" src="images/xr_Volume.png">
+                    <input type="range" class="custom-range" id="readaloudVolumeSlider"
+                           oninput="app.readaloudVolume = this.value"
+                           min="0" max="100" value="100"
+                    >
+                    <img width="22" height="22" srcset="images/xr_Volume_2.png 1x, images/xr_Volume_2@2x.png 2x" src="images/xr_Volume_2.png">
+                  </div>
+                </div>
+              </div>
+
+              <div class="row row-cols-12">
+                <div class="col">
+                  <div class="custom-control custom-checkbox">
+                    <input id="readaloudTurnPagesCheckbox" type="checkbox" class="custom-control-input xr-control"
+                           onchange="app.readaloudTurnsPagesAutomatically = this.checked;">
+                    <label class="custom-control-label" for="readaloudTurnPagesCheckbox">Turn Pages Automatically</label>
+                  </div>
+                </div>
+              </div>
+
+              <div class="row row-cols-12">
+                <div class="col">
+                  <button id="readaloudToggleBtn" type="button" class="btn btn-block btn-primary xr-control"
+                    onclick="app.toggleReadaloud();">Start Read Aloud</button>
+                </div>
+              </div>
+
+            </div>
+          </div>
+        </div>
+
+        <div id="soundtrackSettingsContainer" class="container">
+          <h6>Soundtrack</h6>
+          <div class="row row-cols-12 xr-group">
+            <div class="col">
+
+              <div class="row row-cols-12">
+                <div class="col">
+                  <div class="audio-slider">
+                    <img width="22" height="22" srcset="images/xr_Volume.png 1x, images/xr_Volume@2x.png 2x" src="images/xr_Volume.png">
+                    <input type="range" class="custom-range" id="soundtrackVolumeSlider"
+                           oninput="app.soundtrackVolume = this.value"
+                           min="0" max="100" value="100"
+                    >
+                    <img width="22" height="22" srcset="images/xr_Volume_2.png 1x, images/xr_Volume_2@2x.png 2x" src="images/xr_Volume_2.png">
+                  </div>
+                </div>
+              </div>
+
+              <div class="row row-cols-12">
+                <div class="col">
+                  <button id="soundtrackToggleBtn" type="button" class="btn btn-block btn-primary xr-control"
+                    onclick="app.toggleSoundtrack();">Start Soundtrack</button>
+                </div>
+              </div>
+
+            </div>
+          </div>
+        </div>
+
+        <!-- <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div> -->
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="playScreen" style="display: none;">
+  <img src="images/reader_play.svg" width="150" height="150">
+</div>
+
+<script type="text/javascript">
+if (document.location.protocol == "file:") {
+	$(document).ready(function() {
+		$("#playScreen img").attr("src", "images/sad.svg");
+		$("#playScreen").append("<p>Sorry, due to browser security restrictions, this content does not work from a file URL. Please upload it to a web server.</p>");
+		$("#playScreen").show();
+	});
+} else if (navigator.userAgent.indexOf("MSIE ") >= 0 || navigator.userAgent.indexOf("Trident/") >= 0) {
+	$(document).ready(function() {
+		$("#playScreen img").attr("src", "images/sad.svg");
+		$("#playScreen").append("<p>Sorry, Internet Explorer is not supported. Please use another browser.</p>");
+		$("#playScreen").show();
+	});
+}
+</script>
+
 </body>
+
 </html>
