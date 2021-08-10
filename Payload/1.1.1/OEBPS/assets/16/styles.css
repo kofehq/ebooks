@@ -1,0 +1,108 @@
+div.SCContent {
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+
+
+div#obj1993 {
+position: absolute;
+overflow: hidden;
+top: -31px;
+left: -21px;
+width: 980px;
+height: 1013px;
+opacity: 1;
+z-index: 1;
+display:block;
+pointer-events: none;
+
+user-select: none;  
+-moz-user-select: none;
+-webkit-user-select: none;
+-ms-user-select: none;
+}
+img#obj1993_img {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 980px;
+	height: 1013px;
+}
+div#obj1990 {
+position: absolute;
+overflow: hidden;
+top: 191px;
+left: 211px;
+width: 554px;
+height: 549px;
+opacity: 1;
+z-index: 2;
+display:none;
+pointer-events: none;
+
+user-select: none;  
+-moz-user-select: none;
+-webkit-user-select: none;
+-ms-user-select: none;
+}
+img#obj1990_img {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 554px;
+	height: 549px;
+}
+
+
+
+
+
+
+#obj2002 {
+position: absolute;
+overflow: hidden;
+top: -38px;
+left: 918px;
+width: 1015px;
+height: 1016px;
+opacity: 1;
+z-index: 0;
+display:block;
+pointer-events: auto;
+
+user-select: none;  
+-moz-user-select: none;
+-webkit-user-select: none;
+-ms-user-select: none;
+background-color: #000000;
+}
+
+
+
+
+
+
+
+body {
+font-family: Lato, Arial, Helvetica, Sans-Serif;
+font-size: 20px;
+line-height: 1.2;
+color: #000000
+}
+:link { color: #0A52A2; }
+:visited { color: #5B2599; }
+/* Start of default CSS Styles */
+p, h1, h2, h3, h4, h5, h6 {
+    margin: 0px;
+    padding: 0px;
+}
+h1 { font-size: 2em; }
+h2 { font-size: 1.5em; }
+h3 { font-size: 1.17em; }
+h4 { font-size: 1.12em; }
+h5 { font-size: .83em; }
+h6 { font-size: .67em; }
+/* End of default CSS Styles */
+.SCPage {
+background-color: #FFFFFF
+}

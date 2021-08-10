@@ -1,0 +1,124 @@
+div.SCContent {
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+
+
+div#obj4544 {
+position: absolute;
+overflow: hidden;
+top: 0px;
+left: 0px;
+width: 960px;
+height: 960px;
+opacity: 1;
+z-index: 1;
+display:block;
+pointer-events: none;
+
+user-select: none;  
+-moz-user-select: none;
+-webkit-user-select: none;
+-ms-user-select: none;
+}
+img#obj4544_img {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 960px;
+	height: 960px;
+	transform-origin: 50% 50%;
+	transform: rotate(0deg);
+	-webkit-transform-origin: 50% 50%;
+	-webkit-transform: rotate(0deg);
+}
+div#obj4547 {
+position: absolute;
+overflow: hidden;
+top: 97px;
+left: 131px;
+width: 143px;
+height: 48px;
+opacity: 1;
+z-index: 2;
+display:block;
+pointer-events: none;
+
+user-select: none;  
+-moz-user-select: none;
+-webkit-user-select: none;
+-ms-user-select: none;
+}
+img#obj4547_img {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 143px;
+	height: 48px;
+	transform-origin: 50% 50%;
+	transform: rotate(0deg);
+	-webkit-transform-origin: 50% 50%;
+	-webkit-transform: rotate(0deg);
+}
+
+
+
+
+
+div#obj4518 {
+position: absolute;
+overflow: hidden;
+top: 0px;
+left: 0px;
+width: 1920px;
+height: 960px;
+opacity: 1;
+z-index: 0;
+display:block;
+pointer-events: none;
+
+user-select: none;  
+-moz-user-select: none;
+-webkit-user-select: none;
+-ms-user-select: none;
+background-image: none;
+border-color: #000000;
+border-width: 0px;
+border-style: solid;
+border-radius: 0px;
+-moz-border-radius: 0px;
+-webkit-border-radius: 0px;
+background-color: #FFDD00;
+background-repeat: repeat;
+}
+
+
+
+
+
+
+
+
+body {
+font-family: Lato, Arial, Helvetica, Sans-Serif;
+font-size: 20px;
+line-height: 1.2;
+color: #000000
+}
+:link { color: #0A52A2; }
+:visited { color: #5B2599; }
+/* Start of default CSS Styles */
+p, h1, h2, h3, h4, h5, h6 {
+    margin: 0px;
+    padding: 0px;
+}
+h1 { font-size: 2em; }
+h2 { font-size: 1.5em; }
+h3 { font-size: 1.17em; }
+h4 { font-size: 1.12em; }
+h5 { font-size: .83em; }
+h6 { font-size: .67em; }
+/* End of default CSS Styles */
+.SCPage {
+background-color: #FFFFFF
+}

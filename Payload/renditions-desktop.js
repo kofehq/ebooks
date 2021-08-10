@@ -1,0 +1,1 @@
+PubViewer.Document.Renditions.Desktop = {"formats":[{"id":1,"label":"1920 x 960","screenHeight":960,"screenWidth":1920}],"localizations":[{"default":true,"id":1,"label":"Portuguese","languageCode":"pt"}],"orientations":[{"id":1,"label":"Landscape","orientation":"landscape"}]};
