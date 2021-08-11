@@ -105,6 +105,54 @@
 .SCText span[style*="font-family: Source-Sans-Pro;"] { font-weight: normal; }
 .SCText strong span[style*="font-family: Source-Sans-Pro;"] { font-weight: bold; }
 @font-face {
+	font-family: "TheSans 9-Black";
+	font-weight: 900;
+	font-style: normal;
+	src: url(../fonts/TheSans-Black.otf);
+}
+@font-face {
+	font-family: "TheSans 7-Bold Caps";
+	font-weight: bold;
+	font-style: normal;
+	src: url(../fonts/TheSans-BoldCaps.otf);
+}
+@font-face {
+	font-family: "TheSans 7-Bold";
+	font-weight: bold;
+	font-style: normal;
+	src: url(../fonts/TheSans-BoldPlain.otf);
+}
+@font-face {
+	font-family: "TheSans 8-ExtraBold";
+	font-weight: 800;
+	font-style: normal;
+	src: url(../fonts/TheSans-ExtraBold.otf);
+}
+@font-face {
+	font-family: "TheSans 3-Light Caps";
+	font-weight: 300;
+	font-style: normal;
+	src: url(../fonts/TheSans-LightCaps.otf);
+}
+@font-face {
+	font-family: "TheSans 5-Regular";
+	font-weight: 500;
+	font-style: normal;
+	src: url(../fonts/TheSans-Regular.otf);
+}
+@font-face {
+	font-family: "TheSans 4-SemiLight";
+	font-weight: normal;
+	font-style: normal;
+	src: url(../fonts/TheSans-SemiLight.otf);
+}
+@font-face {
+	font-family: "TheSans 4-SemiLight";
+	font-weight: normal;
+	font-style: oblique;
+	src: url(../fonts/TheSans-SemiLightItalic.otf);
+}
+@font-face {
 	font-family: "Tinos";
 	font-weight: normal;
 	font-style: normal;
@@ -129,16 +177,16 @@ audio{
 }
 /* Page style */
 div.SCPage {
-	width: 1920px;
-	height: 960px;
+	width: 510px;
+	height: 680px;
 	position: relative;
 	
 }
 div.SCOverlay {
 	position: absolute;
 	z-index: 4;
-	width: 1920px;
-	height: 960px;
+	width: 510px;
+	height: 680px;
 	overflow: hidden;
 	pointer-events: none;
 	
@@ -146,22 +194,22 @@ div.SCOverlay {
 div.SCContentOverlay {
 	position: absolute;
 	z-index: 3;
-	width: 1920px;
-  height: 960px;
+	width: 510px;
+  height: 680px;
   overflow: hidden;
 	pointer-events: none;
 }
 div.SCContent {
 	position: absolute;
 	z-index: 2;
-	width: 1920px;
-	height: 960px;
+	width: 510px;
+	height: 680px;
 }
 div.SCContentUnderlay {
 	position: absolute;
 	z-index: 1;
-	width: 1920px;
-  height: 960px;
+	width: 510px;
+  height: 680px;
   overflow: hidden;
 }
 #SCAnchors {
@@ -206,7 +254,7 @@ div#SCNavigationContent {
 	left: 0px;
 	width: 100%;
 	height: 100%;
-	max-width: 2100px;
+	max-width: 690px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -215,7 +263,7 @@ div#SCNavigationLeft {
 	position: absolute;
 	left: 5px;
 	width: 68px;
-	height: 960px;
+	height: 680px;
 	background-image: url(../images/scnavigation-prev-btn.png);
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -227,7 +275,7 @@ div#SCNavigationRight {
 	position: absolute;
 	right: 5px;
 	width: 68px;
-	height: 960px;
+	height: 680px;
 	background-image: url(../images/scnavigation-next-btn.png);
 	background-position: center center;
 	background-repeat: no-repeat;

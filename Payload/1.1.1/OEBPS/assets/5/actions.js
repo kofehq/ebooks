@@ -1,7 +1,7 @@
-pubcoder.projectID = pubcoder.projectID || "C58DD98ADA6D44539420920C7C601475";
-pubcoder.project.id = pubcoder.project.id || "C58DD98ADA6D44539420920C7C601475";
-pubcoder.project.title = pubcoder.project.title || "210723_Desaforismos";
-pubcoder.page.id = pubcoder.page.id || 1449;
+pubcoder.projectID = pubcoder.projectID || "9BAFAFFC54C447E991DC838D64F52FA6";
+pubcoder.project.id = pubcoder.project.id || "9BAFAFFC54C447E991DC838D64F52FA6";
+pubcoder.project.title = pubcoder.project.title || "210721_a arte muda da fuga";
+pubcoder.page.id = pubcoder.page.id || 20;
 pubcoder.page.title = pubcoder.page.title || "5";
 pubcoder.page.number = pubcoder.page.number || 5;
 pubcoder.page.alias = pubcoder.page.alias || "";
@@ -136,6 +136,78 @@ var askAudioPermission = false;
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 		
 		
 		/*
@@ -149,9 +221,18 @@ var askAudioPermission = false;
 $(window).on(PubCoder.Events.PagePlay, function() {
 	$(window).trigger(PubCoder.Events.PageReady);
 	
-$("#obj1451").trigger('SCEventShow');
-$("#obj1453").trigger('SCEventShow');
-$("#obj1455").trigger('SCEventShow');
-$("#obj1457").trigger('SCEventShow');
+$("#obj21").trigger('SCEventShow');
+$("#obj22").trigger('SCEventShow');
+$("#obj23").trigger('SCEventShow');
+$("#obj24").trigger('SCEventShow');
+$("#obj25").trigger('SCEventShow');
+$("#obj27").trigger('SCEventShow');
+$("#obj29").trigger('SCEventShow');
+$("#obj31").trigger('SCEventShow');
+$("#obj33").trigger('SCEventShow');
+$("#obj35").trigger('SCEventShow');
+$("#obj37").trigger('SCEventShow');
+$("#obj39").trigger('SCEventShow');
+$("#obj41").trigger('SCEventShow');
 	
 });

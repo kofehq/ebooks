@@ -1,1 +1,1 @@
-PubViewer.Document.Settings = {"appIdentifier":"0BDDB4F59AA841D98546E67F5224B7E6","appName":"210723_Desaforismos","backgroundColor":"#EFEEE8","facingPagesInLandscape":false,"lockOrientation":false,"restoreLatestPage":false};
+PubViewer.Document.Settings = {"appIdentifier":"49C37495BC8F4E808C746C80F9C660F0","appName":"210721_a arte muda da fuga","backgroundColor":"#EFEEE8","facingPagesInLandscape":true,"lockOrientation":false,"restoreLatestPage":true};

@@ -1,0 +1,2178 @@
+div.SCContent {
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+
+
+
+div#obj556 {
+position: absolute;
+overflow: hidden;
+top: 94px;
+left: 168px;
+width: 255px;
+height: 509px;
+opacity: 1;
+z-index: 0;
+display:block;
+pointer-events: auto;
+user-select: text;  
+-moz-user-select: text;
+-webkit-user-select: text;
+-ms-user-select: text;
+
+}
+div#obj556_content {
+}
+div#obj559 {
+position: absolute;
+overflow: hidden;
+top: 642px;
+left: 22px;
+width: 38px;
+height: 14px;
+opacity: 1;
+z-index: 3;
+display:block;
+pointer-events: auto;
+user-select: text;  
+-moz-user-select: text;
+-webkit-user-select: text;
+-ms-user-select: text;
+
+}
+div#obj559_content {
+}
+button#obj2362 {
+	position: absolute;
+overflow: hidden;
+top: 21px;
+left: 413px;
+width: 66px;
+height: 20px;
+opacity: 1;
+z-index: 4;
+display:block;
+pointer-events: auto;
+
+user-select: none;  
+-moz-user-select: none;
+-webkit-user-select: none;
+-ms-user-select: none;
+	border-color: #CDCDCD;
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	background-color: #FFFFFF;
+	font-family:"TheSans 7-Bold";
+	font-size: 12px;
+	color: #CDCDCD; 
+}
+button#obj2362:active { -webkit-box-shadow: inset 2px 2px 7px rgba(0, 0, 0, 0.125); }
+
+
+div#obj557 {
+position: absolute;
+overflow: hidden;
+top: 0px;
+left: 0px;
+width: 70px;
+height: 680px;
+opacity: 1;
+z-index: 1;
+display:block;
+pointer-events: none;
+
+user-select: none;  
+-moz-user-select: none;
+-webkit-user-select: none;
+-ms-user-select: none;
+background-image: none;
+border-color: rgba(0,0,0,0);
+border-width: 1px;
+border-style: solid;
+border-radius: 0px;
+-moz-border-radius: 0px;
+-webkit-border-radius: 0px;
+background-color: #000000;
+background-repeat: repeat;
+}
+div#obj558 {
+position: absolute;
+overflow: hidden;
+top: 0px;
+left: -71px;
+width: 70px;
+height: 680px;
+opacity: 1;
+z-index: 2;
+display:block;
+pointer-events: none;
+
+user-select: none;  
+-moz-user-select: none;
+-webkit-user-select: none;
+-ms-user-select: none;
+background-image: none;
+border-color: rgba(0,0,0,0);
+border-width: 1px;
+border-style: solid;
+border-radius: 0px;
+-moz-border-radius: 0px;
+-webkit-border-radius: 0px;
+background-color: #000000;
+background-repeat: repeat;
+}
+
+
+
+
+
+
+
+
+body {
+font-family: Lato, Arial, Helvetica, Sans-Serif;
+font-size: 20px;
+line-height: 1.2;
+color: #000000
+}
+:link { color: #0A52A2; }
+:visited { color: #5B2599; }
+body {
+font-family: Lato, Arial, Helvetica, Sans-Serif;
+font-size: 20px;
+line-height: 1.2;
+color: #000000
+}
+:link { color: #0A52A2; }
+:visited { color: #5B2599; }
+/* Start of default CSS Styles */
+p, h1, h2, h3, h4, h5, h6 {
+    margin: 0px;
+    padding: 0px;
+}
+h1 { font-size: 2em; }
+h2 { font-size: 1.5em; }
+h3 { font-size: 1.17em; }
+h4 { font-size: 1.12em; }
+h5 { font-size: .83em; }
+h6 { font-size: .67em; }
+/* End of default CSS Styles */
+/*
+Styles imported from InDesign document "ARTEMUDA_210621.indd"
+21/06/21 14:11
+*/
+div.Quadro-de-gr-fico-b-sico {
+	border-color:#000000;
+	border-width:1px;
+	border-style:solid;
+}
+div.Quadro-de-texto-b-sico {
+	border-style:solid;
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621 p.ParaOverride-1 {
+	white-space: nowrap; 
+}
+.SCIdFxlObj3_ARTEMUDA_210621 p.ParaOverride-1 {
+	line-height: 1;
+	white-space: inherit
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-1 {
+	font-size: 480px; 
+}
+.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-1 {
+	color: #ffffff;
+	font-family: "TheSans 5-Regular", sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 500
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-2 {
+	font-size: 520px; 
+}
+.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-2 {
+	color: #ffffff;
+	font-family: "TheSans 8-ExtraBold", sans-serif;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 800
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-3 {
+	font-size: 180px; 
+}
+.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-3 {
+	color: #000000;
+	font-family: "TheSans 5-Regular", sans-serif;
+	font-size: 9px;
+	font-style: normal;
+	font-weight: 500
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-4 {
+	font-size: 210px; 
+}
+.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-4 {
+	color: #000000;
+	font-family: "TheSans 5-Regular", sans-serif;
+	font-size: 10.5px;
+	font-style: normal;
+	font-weight: 500
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-5 {
+	font-size: 300px; 
+}
+.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-5 {
+	color: #000000;
+	font-family: "TheSans 5-Regular", sans-serif;
+	font-size: 15px;
+	font-style: normal;
+	font-weight: 500
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-6 {
+	font-size: 380px; 
+}
+.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-6 {
+	color: #000000;
+	font-family: "TheSans 8-ExtraBold", sans-serif;
+	font-size: 19px;
+	font-style: normal;
+	font-weight: 800
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-7 {
+	font-size: 180px; 
+}
+.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-7 {
+	color: #000000;
+	font-family: "TheSans 4-SemiLight", sans-serif;
+	font-size: 9px;
+	font-style: normal;
+	font-weight: normal
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-8 {
+	font-size: 150px; 
+}
+.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-8 {
+	color: #000000;
+	font-family: "TheSans 7-Bold", sans-serif;
+	font-size: 7.5px;
+	font-style: normal;
+	font-weight: bold;
+	text-transform: uppercase
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-9 {
+	font-size: 240px; 
+}
+.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-9 {
+	color: #000000;
+	font-family: "TheSans 7-Bold Caps", sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-10 {
+	font-size: 220px; 
+}
+.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-10 {
+	color: #ffffff;
+	font-family: "TheSans 9-Black", sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: 900
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-11 {
+	font-size: 180px; 
+}
+.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-11 {
+	color: #ffffff;
+	font-family: "TheSans 5-Regular", sans-serif;
+	font-size: 9px;
+	font-style: normal;
+	font-weight: 500;
+	text-transform: uppercase
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-12 {
+	font-size: 180px; 
+}
+.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-12 {
+	color: #ffffff;
+	font-family: "TheSans 4-SemiLight", sans-serif;
+	font-size: 9px;
+	font-style: normal;
+	font-weight: normal
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-13 {
+	font-size: 140px; 
+}
+.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-13 {
+	color: #939598;
+	font-family: "TheSans 7-Bold Caps", sans-serif;
+	font-size: 7px;
+	font-style: normal;
+	font-weight: bold
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-14 {
+	font-size: 180px; 
+}
+.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-14 {
+	color: #000000;
+	font-family: "TheSans 9-Black", sans-serif;
+	font-size: 9px;
+	font-style: normal;
+	font-weight: 900;
+	text-transform: uppercase
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-15 {
+	font-size: 220px; 
+}
+.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-15 {
+	color: #000000;
+	font-family: "TheSans 9-Black", sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: 900
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-16 {
+	font-size: 220px; 
+}
+.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-16 {
+	color: #000000;
+	font-family: "TheSans 4-SemiLight", sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-17 {
+	font-size: 140px; 
+}
+.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-17 {
+	color: #ffffff;
+	font-family: "TheSans 3-Light Caps", sans-serif;
+	font-size: 7px;
+	font-style: normal;
+	font-weight: 300
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-18 {
+	font-size: 187.3px; 
+}
+.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-18 {
+	color: #d1d3d4;
+	font-family: "TheSans 9-Black", sans-serif;
+	font-size: 9.3650000000000002131628207280300557613372802734375px;
+	font-style: normal;
+	font-weight: 900
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-19 {
+	font-size: 187.3px; 
+}
+.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-19 {
+	color: #000000;
+	font-family: "TheSans 9-Black", sans-serif;
+	font-size: 9.3650000000000002131628207280300557613372802734375px;
+	font-style: normal;
+	font-weight: 900
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-20 {
+	font-size: 222.6px; 
+}
+.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-20 {
+	color: #000000;
+	font-family: "TheSans 9-Black", sans-serif;
+	font-size: 11.1300000000000007815970093361102044582366943359375px;
+	font-style: normal;
+	font-weight: 900
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-21 {
+	font-size: 222.6px; 
+}
+.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-21 {
+	color: #000000;
+	font-family: "TheSans 4-SemiLight", sans-serif;
+	font-size: 11.1300000000000007815970093361102044582366943359375px;
+	font-style: normal;
+	font-weight: normal
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-22 {
+	font-size: 220px; 
+}
+.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-22 {
+	color: #ffffff;
+	font-family: "TheSans 4-SemiLight", sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-23 {
+	font-size: 200px; 
+}
+.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-23 {
+	color: #000000;
+	font-family: "TheSans 9-Black", sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: 900
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-24 {
+	font-size: 180px; 
+}
+.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-24 {
+	color: #000000;
+	font-family: "TheSans 4-SemiLight", sans-serif;
+	font-size: 9px;
+	font-style: normal;
+	font-weight: normal;
+	text-transform: uppercase
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-25 {
+	font-size: 180px; 
+}
+.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-25 {
+	color: #000000;
+	font-family: "TheSans 4-SemiLight", sans-serif;
+	font-size: 9px;
+	font-style: italic;
+	font-weight: normal
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-26 {
+	font-size: 180px; 
+}
+.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-26 {
+	color: #000000;
+	font-family: "TheSans 9-Black", sans-serif;
+	font-size: 9px;
+	font-style: normal;
+	font-weight: 900
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-27 {
+	font-size: 160px; 
+}
+.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-27 {
+	color: #000000;
+	font-family: "TheSans 7-Bold", sans-serif;
+	font-size: 8px;
+	font-style: normal;
+	font-weight: bold
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-28 {
+	font-size: 160px; 
+}
+.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-28 {
+	color: #000000;
+	font-family: "TheSans 4-SemiLight", sans-serif;
+	font-size: 8px;
+	font-style: normal;
+	font-weight: normal
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-29 {
+	font-size: 140px; 
+}
+.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-29 {
+	color: #000000;
+	font-family: "TheSans 5-Regular", sans-serif;
+	font-size: 7px;
+	font-style: normal;
+	font-weight: 500
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-30 {
+	font-size: 81.6px; 
+}
+.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-30 {
+	color: #000000;
+	font-family: "TheSans 5-Regular", sans-serif;
+	font-size: 4.0800000000000000710542735760100185871124267578125px;
+	font-style: normal;
+	font-weight: 500
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-31 {
+	font-size: 200px; 
+}
+.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-31 {
+	color: #ffffff;
+	font-family: "TheSans 5-Regular", sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: 500
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-32 {
+	font-size: 180px; 
+}
+.SCIdFxlObj3_ARTEMUDA_210621 span.CharOverride-32 {
+	color: #ffffff;
+	font-family: "TheSans 5-Regular", sans-serif;
+	font-size: 9px;
+	font-style: normal;
+	font-weight: 500
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer000 {
+	-webkit-transform: translate(-0.001px,-0.001px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 681.56px;
+	left: 0.001px;
+	position: absolute;
+	top: 0.001px;
+	transform: translate(-0.001px,-0.001px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 506.40px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer001, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer209, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer210, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer270, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer366, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer367, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer744, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer745 {
+	-webkit-transform: translate(-0.001px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 680.31px;
+	left: 0.001px;
+	position: absolute;
+	top: 0.000px;
+	transform: translate(-0.001px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 510.24px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer002 {
+	-webkit-transform: translate(49.106px,608.073px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 40.47px;
+	left: -49.106px;
+	position: absolute;
+	top: -608.073px;
+	transform: translate(49.106px,608.073px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 301.89px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer003 {
+	-webkit-transform: translate(49.106px,29.129px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 44.56px;
+	left: -49.106px;
+	position: absolute;
+	top: -29.129px;
+	transform: translate(49.106px,29.129px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 326.33px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer004, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer827, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer829 {
+	-webkit-transform: translate(0.000px,-6.112px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 687.43px;
+	left: 0.000px;
+	position: absolute;
+	top: 6.112px;
+	transform: translate(0.000px,-6.112px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 510.24px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer005, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer006, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer064, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer065, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer621 {
+	-webkit-transform: translate(0.000px,-0.001px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 680.31px;
+	left: 0.000px;
+	position: absolute;
+	top: 0.001px;
+	transform: translate(0.000px,-0.001px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 510.24px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer007, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer415, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer416, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer488, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer536, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer537, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer622 {
+	-webkit-transform: translate(-0.001px,-0.001px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 680.31px;
+	left: 0.001px;
+	position: absolute;
+	top: 0.001px;
+	transform: translate(-0.001px,-0.001px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 510.24px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer008 {
+	-webkit-transform: translate(96.377px,447.157px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 44.40px;
+	left: -96.377px;
+	position: absolute;
+	top: -447.157px;
+	transform: translate(96.377px,447.157px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 262.20px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer009 {
+	-webkit-transform: translate(122.623px,434.755px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 28.04px;
+	left: -122.623px;
+	position: absolute;
+	top: -434.755px;
+	transform: translate(122.623px,434.755px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 209.71px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer010 {
+	-webkit-transform: translate(120.264px,395.656px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 35.10px;
+	left: -120.264px;
+	position: absolute;
+	top: -395.656px;
+	transform: translate(120.264px,395.656px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 214.43px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer011 {
+	-webkit-transform: translate(53.289px,7.577px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 8.42px;
+	left: -53.289px;
+	position: absolute;
+	top: -7.577px;
+	transform: translate(53.289px,7.577px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 17.58px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer012 {
+	-webkit-transform: translate(45.392px,8.323px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 7.01px;
+	left: -45.392px;
+	position: absolute;
+	top: -8.323px;
+	transform: translate(45.392px,8.323px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 6.14px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer013 {
+	-webkit-transform: translate(0.000px,0.091px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 6.20px;
+	left: 0.000px;
+	position: absolute;
+	top: -0.091px;
+	transform: translate(0.000px,0.091px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 5.93px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer014 {
+	-webkit-transform: translate(18.515px,0.108px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 6.18px;
+	left: -18.515px;
+	position: absolute;
+	top: -0.108px;
+	transform: translate(18.515px,0.108px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 5.11px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer015 {
+	-webkit-transform: translate(26.336px,0.100px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 6.19px;
+	left: -26.336px;
+	position: absolute;
+	top: -0.100px;
+	transform: translate(26.336px,0.100px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 5.99px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer016 {
+	-webkit-transform: translate(35.621px,0.106px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 6.17px;
+	left: -35.621px;
+	position: absolute;
+	top: -0.106px;
+	transform: translate(35.621px,0.106px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 3.98px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer017 {
+	-webkit-transform: translate(41.563px,0.123px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 6.15px;
+	left: -41.563px;
+	position: absolute;
+	top: -0.123px;
+	transform: translate(41.563px,0.123px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 4.63px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer018 {
+	-webkit-transform: translate(49.015px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 6.43px;
+	left: -49.015px;
+	position: absolute;
+	top: 0.000px;
+	transform: translate(49.015px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 6.43px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer019 {
+	-webkit-transform: translate(9.213px,0.100px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 6.19px;
+	left: -9.213px;
+	position: absolute;
+	top: -0.100px;
+	transform: translate(9.213px,0.100px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 5.99px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer020 {
+	-webkit-transform: translate(120.264px,621.795px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 16.00px;
+	left: -120.264px;
+	position: absolute;
+	top: -621.795px;
+	transform: translate(120.264px,621.795px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 70.87px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer021 {
+	-webkit-transform: translate(198.425px,303.029px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 73.86px;
+	left: -198.425px;
+	position: absolute;
+	top: -303.029px;
+	transform: translate(198.425px,303.029px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 235.28px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer022 {
+	-webkit-transform: translate(22.677px,42.047px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 609.92px;
+	left: -22.677px;
+	position: absolute;
+	top: -42.047px;
+	transform: translate(22.677px,42.047px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 487.56px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer023 {
+	-webkit-transform: translate(0.000px,42.047px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 609.92px;
+	left: 0.000px;
+	position: absolute;
+	top: -42.047px;
+	transform: translate(0.000px,42.047px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 473.71px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer024 {
+	-webkit-transform: translate(0.000px,-6.112px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	background-image: none;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 687.43px;
+	left: 0.000px;
+	position: absolute;
+	top: 6.112px;
+	transform: translate(0.000px,-6.112px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 510.24px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer025 {
+	-webkit-transform: translate(79.974px,58.533px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 36.01px;
+	left: -79.974px;
+	position: absolute;
+	top: -58.533px;
+	transform: translate(79.974px,58.533px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 67.61px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer026 {
+	-webkit-transform: translate(79.974px,130.752px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 194.37px;
+	left: -79.974px;
+	position: absolute;
+	top: -130.752px;
+	transform: translate(79.974px,130.752px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 112.53px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer027 {
+	-webkit-transform: translate(45.738px,132.550px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 191.37px;
+	left: -45.738px;
+	position: absolute;
+	top: -132.550px;
+	transform: translate(45.738px,132.550px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 29.20px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer028 {
+	-webkit-transform: translate(79.974px,107.224px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	background-image: none;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 22.77px;
+	left: -79.974px;
+	position: absolute;
+	top: -107.224px;
+	transform: translate(79.974px,107.224px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 112.53px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer029 {
+	-webkit-transform: translate(215.501px,130.610px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 178.37px;
+	left: -215.501px;
+	position: absolute;
+	top: -130.610px;
+	transform: translate(215.501px,130.610px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 141.35px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer030 {
+	-webkit-transform: translate(181.297px,132.550px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 175.37px;
+	left: -181.297px;
+	position: absolute;
+	top: -132.550px;
+	transform: translate(181.297px,132.550px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 29.20px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer031 {
+	-webkit-transform: translate(215.501px,107.224px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	background-image: none;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 22.77px;
+	left: -215.501px;
+	position: absolute;
+	top: -107.224px;
+	transform: translate(215.501px,107.224px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 112.53px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer032 {
+	-webkit-transform: translate(355.879px,130.610px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 130.37px;
+	left: -355.879px;
+	position: absolute;
+	top: -130.610px;
+	transform: translate(355.879px,130.610px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 115.53px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer033 {
+	-webkit-transform: translate(321.643px,132.550px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 127.37px;
+	left: -321.643px;
+	position: absolute;
+	top: -132.550px;
+	transform: translate(321.643px,132.550px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 29.20px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer034 {
+	-webkit-transform: translate(355.879px,107.224px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	background-image: none;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 22.77px;
+	left: -355.879px;
+	position: absolute;
+	top: -107.224px;
+	transform: translate(355.879px,107.224px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 112.53px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer035 {
+	-webkit-transform: translate(34.236px,15.054px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 146.37px;
+	left: -34.236px;
+	position: absolute;
+	top: -15.054px;
+	transform: translate(34.236px,15.054px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 112.53px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer036, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer040 {
+	-webkit-transform: translate(0.000px,17.443px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 143.37px;
+	left: 0.000px;
+	position: absolute;
+	top: -17.443px;
+	transform: translate(0.000px,17.443px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 29.20px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer037 {
+	-webkit-transform: translate(34.236px,-7.380px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	background-image: none;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 22.77px;
+	left: -34.236px;
+	position: absolute;
+	top: 7.380px;
+	transform: translate(34.236px,-7.380px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 112.53px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer038 {
+	-webkit-transform: translate(321.643px,395.310px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 155.68px;
+	left: -321.643px;
+	position: absolute;
+	top: -395.310px;
+	transform: translate(321.643px,395.310px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 146.76px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer039 {
+	-webkit-transform: translate(34.566px,15.054px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 162.37px;
+	left: -34.566px;
+	position: absolute;
+	top: -15.054px;
+	transform: translate(34.566px,15.054px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 112.53px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer041 {
+	-webkit-transform: translate(34.566px,-7.380px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	background-image: none;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 22.77px;
+	left: -34.566px;
+	position: absolute;
+	top: 7.380px;
+	transform: translate(34.566px,-7.380px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 112.53px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer042 {
+	-webkit-transform: translate(181.297px,395.310px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 171.58px;
+	left: -181.297px;
+	position: absolute;
+	top: -395.310px;
+	transform: translate(181.297px,395.310px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 147.09px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer043 {
+	-webkit-transform: translate(79.942px,410.364px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 210.37px;
+	left: -79.942px;
+	position: absolute;
+	top: -410.364px;
+	transform: translate(79.942px,410.364px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 115.46px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer044 {
+	-webkit-transform: translate(45.738px,412.753px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 207.37px;
+	left: -45.738px;
+	position: absolute;
+	top: -412.753px;
+	transform: translate(45.738px,412.753px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 29.20px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer045 {
+	-webkit-transform: translate(79.942px,387.930px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	background-image: none;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 22.77px;
+	left: -79.942px;
+	position: absolute;
+	top: -387.930px;
+	transform: translate(79.942px,387.930px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 112.53px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer046 {
+	-webkit-transform: translate(-0.001px,-6.112px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 687.43px;
+	left: 0.001px;
+	position: absolute;
+	top: 6.112px;
+	transform: translate(-0.001px,-6.112px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 510.24px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer047 {
+	-webkit-transform: translate(67.647px,130.610px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 226.37px;
+	left: -67.647px;
+	position: absolute;
+	top: -130.610px;
+	transform: translate(67.647px,130.610px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 105.53px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer048 {
+	-webkit-transform: translate(33.080px,132.550px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 227.68px;
+	left: -33.080px;
+	position: absolute;
+	top: -132.550px;
+	transform: translate(33.080px,132.550px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 29.20px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer049 {
+	-webkit-transform: translate(67.647px,107.224px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	background-image: none;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 22.77px;
+	left: -67.647px;
+	position: absolute;
+	top: -107.224px;
+	transform: translate(67.647px,107.224px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 112.53px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer050 {
+	-webkit-transform: translate(202.954px,130.752px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 146.37px;
+	left: -202.954px;
+	position: absolute;
+	top: -130.752px;
+	transform: translate(202.954px,130.752px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 108.38px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer051 {
+	-webkit-transform: translate(168.750px,132.550px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 111.37px;
+	left: -168.750px;
+	position: absolute;
+	top: -132.550px;
+	transform: translate(168.750px,132.550px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 29.20px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer052 {
+	-webkit-transform: translate(202.954px,107.224px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	background-image: none;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 22.77px;
+	left: -202.954px;
+	position: absolute;
+	top: -107.224px;
+	transform: translate(202.954px,107.224px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 112.53px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer053 {
+	-webkit-transform: translate(34.236px,15.054px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 194.37px;
+	left: -34.236px;
+	position: absolute;
+	top: -15.054px;
+	transform: translate(34.236px,15.054px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 95.53px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer054 {
+	-webkit-transform: translate(0.000px,17.443px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 191.37px;
+	left: 0.000px;
+	position: absolute;
+	top: -17.443px;
+	transform: translate(0.000px,17.443px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 29.20px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer055 {
+	-webkit-transform: translate(35.204px,-7.380px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	background-image: none;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 22.77px;
+	left: -35.204px;
+	position: absolute;
+	top: 7.380px;
+	transform: translate(35.204px,-7.380px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 112.53px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer056 {
+	-webkit-transform: translate(311.332px,219.817px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 203.68px;
+	left: -311.332px;
+	position: absolute;
+	top: -219.817px;
+	transform: translate(311.332px,219.817px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 147.73px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer057 {
+	-webkit-transform: translate(202.954px,410.391px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 114.35px;
+	left: -202.954px;
+	position: absolute;
+	top: -410.391px;
+	transform: translate(202.954px,410.391px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 97.29px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer058 {
+	-webkit-transform: translate(168.750px,412.753px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 111.37px;
+	left: -168.750px;
+	position: absolute;
+	top: -412.753px;
+	transform: translate(168.750px,412.753px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 29.20px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer059 {
+	-webkit-transform: translate(203.923px,387.930px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	background-image: none;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 22.77px;
+	left: -203.923px;
+	position: absolute;
+	top: -387.930px;
+	transform: translate(203.923px,387.930px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 112.53px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer060 {
+	-webkit-transform: translate(34.204px,15.054px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 178.37px;
+	left: -34.204px;
+	position: absolute;
+	top: -15.054px;
+	transform: translate(34.204px,15.054px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 93.10px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer061 {
+	-webkit-transform: translate(0.000px,17.443px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 175.37px;
+	left: 0.000px;
+	position: absolute;
+	top: -17.443px;
+	transform: translate(0.000px,17.443px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 29.20px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer062 {
+	-webkit-transform: translate(35.173px,-7.380px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	background-image: none;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 22.77px;
+	left: -35.173px;
+	position: absolute;
+	top: 7.380px;
+	transform: translate(35.173px,-7.380px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 112.53px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer063 {
+	-webkit-transform: translate(33.080px,395.310px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 187.68px;
+	left: -33.080px;
+	position: absolute;
+	top: -395.310px;
+	transform: translate(33.080px,395.310px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 147.70px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer066, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer078, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer090, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer102, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer114, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer126, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer138, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer150, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer162, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer174, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer186, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer198, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer211, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer223, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer235, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer247, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer259, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer271, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer283, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer295, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer307, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer319, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer331, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer343, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer355, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer368, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer380, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer392, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer404, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer417, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer429, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer441, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer453, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer465, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer477, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer489, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer501, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer513, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer525, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer538, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer550, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer562, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer574, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer586, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer598, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer610, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer624, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer636, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer648, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer660, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer672, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer685, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer697, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer709, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer721, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer733, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer747, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer759, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer771, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer783, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer795 {
+	-webkit-transform: translate(439.370px,-0.001px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 680.31px;
+	left: -439.370px;
+	position: absolute;
+	top: 0.001px;
+	transform: translate(439.370px,-0.001px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 70.87px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer067, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer127, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer151, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer199, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer236, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer260, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer369, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer393, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer442, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer539, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer649, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer722, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer748 {
+	-webkit-transform: translate(167.244px,330.653px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 284.49px;
+	left: -167.244px;
+	position: absolute;
+	top: -330.653px;
+	transform: translate(167.244px,330.653px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 255.12px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer068, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer080, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer092, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer104, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer116, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer128, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer140, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer152, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer164, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer176, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer188, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer200, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer213, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer225, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer237, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer249, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer261, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer273, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer285, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer297, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer309, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer321, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer333, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer345, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer357, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer370, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer382, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer394, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer406, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer419, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer431, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer443, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer455, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer467, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer479, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer491, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer503, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer515, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer527, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer540, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer552, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer564, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer576, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer588, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer600, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer612, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer626, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer638, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer650, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer662, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer675, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer687, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer699, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer711, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer723, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer735, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer749, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer761, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer773, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer785, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer797 {
+	-webkit-transform: translate(0.000px,-0.001px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 680.31px;
+	left: 0.000px;
+	position: absolute;
+	top: 0.001px;
+	transform: translate(0.000px,-0.001px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 70.87px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer069, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer081, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer093, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer105, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer117, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer129, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer141, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer153, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer165, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer177, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer189, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer201, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer214, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer226, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer238, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer250, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer262, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer274, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer286, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer298, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer310, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer322, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer334, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer346, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer358, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer371, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer383, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer395, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer407, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer420, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer432, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer444, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer456, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer468, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer480, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer492, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer504, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer516, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer528, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer541, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer553, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer565, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer577, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer589, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer601, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer613, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer627, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer639, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer651, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer663, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer676, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer688, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer700, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer712, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer724, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer736, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer750, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer762, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer774, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer786, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer798 {
+	-webkit-transform: translate(22.125px,641.712px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 17.08px;
+	left: -22.125px;
+	position: absolute;
+	top: -641.712px;
+	transform: translate(22.125px,641.712px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 38.74px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer070, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer073, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer082, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer085, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer094, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer097, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer106, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer109, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer118, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer121, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer130, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer133, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer142, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer145, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer154, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer157, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer166, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer169, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer178, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer181, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer190, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer193, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer202, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer205, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer215, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer218, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer227, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer230, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer239, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer242, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer251, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer254, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer263, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer266, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer275, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer278, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer287, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer290, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer299, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer302, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer311, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer314, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer323, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer326, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer335, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer338, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer347, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer350, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer359, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer362, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer372, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer375, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer384, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer387, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer396, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer399, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer408, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer411, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer421, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer424, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer433, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer436, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer445, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer448, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer457, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer460, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer469, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer472, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer481, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer484, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer493, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer496, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer505, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer508, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer517, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer520, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer529, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer532, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer542, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer545, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer554, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer557, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer566, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer569, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer578, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer581, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer590, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer593, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer602, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer605, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer614, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer617, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer628, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer631, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer640, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer643, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer652, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer655, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer664, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer667, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer677, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer680, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer689, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer692, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer701, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer704, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer713, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer716, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer725, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer728, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer737, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer740, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer751, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer754, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer763, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer766, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer775, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer778, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer787, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer790, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer799, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer802 {
+	-webkit-transform: translate(13.160px,0.197px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 17.50px;
+	left: -13.160px;
+	position: absolute;
+	top: -0.197px;
+	transform: translate(13.160px,0.197px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 45.50px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer071, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer072, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer074, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer075, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer083, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer084, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer086, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer087, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer095, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer096, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer098, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer099, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer107, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer108, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer110, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer111, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer119, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer120, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer122, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer123, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer131, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer132, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer134, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer135, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer143, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer144, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer146, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer147, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer155, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer156, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer158, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer159, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer167, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer168, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer170, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer171, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer179, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer180, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer182, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer183, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer191, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer192, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer194, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer195, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer203, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer204, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer206, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer207, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer216, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer217, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer219, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer220, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer228, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer229, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer231, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer232, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer240, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer241, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer243, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer244, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer252, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer253, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer255, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer256, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer264, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer265, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer267, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer268, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer276, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer277, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer279, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer280, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer288, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer289, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer291, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer292, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer300, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer301, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer303, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer304, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer312, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer313, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer315, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer316, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer324, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer325, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer327, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer328, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer336, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer337, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer339, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer340, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer348, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer349, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer351, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer352, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer360, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer361, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer363, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer364, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer373, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer374, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer376, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer377, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer385, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer386, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer388, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer389, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer397, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer398, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer400, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer401, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer409, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer410, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer412, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer413, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer422, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer423, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer425, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer426, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer434, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer435, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer437, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer438, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer446, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer447, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer449, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer450, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer458, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer459, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer461, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer462, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer470, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer471, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer473, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer474, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer482, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer483, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer485, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer486, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer494, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer495, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer497, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer498, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer506, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer507, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer509, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer510, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer518, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer519, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer521, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer522, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer530, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer531, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer533, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer534, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer543, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer544, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer546, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer547, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer555, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer556, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer558, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer559, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer567, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer568, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer570, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer571, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer579, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer580, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer582, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer583, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer591, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer592, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer594, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer595, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer603, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer604, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer606, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer607, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer615, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer616, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer618, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer619, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer629, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer630, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer632, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer633, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer641, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer642, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer644, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer645, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer653, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer654, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer656, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer657, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer665, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer666, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer668, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer669, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer678, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer679, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer681, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer682, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer690, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer691, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer693, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer694, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer702, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer703, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer705, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer706, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer714, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer715, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer717, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer718, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer726, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer727, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer729, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer730, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer738, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer739, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer741, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer742, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer752, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer753, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer755, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer756, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer764, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer765, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer767, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer768, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer776, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer777, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer779, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer780, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer788, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer789, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer791, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer792, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer800, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer801, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer803, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer804 {
+	-webkit-transform: translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 19.35px;
+	left: 0.000px;
+	position: absolute;
+	top: 0.000px;
+	transform: translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 71.82px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer076, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer088, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer100, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer112, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer124, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer136, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer148, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer160, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer172, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer184, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer196, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer208, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer221, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer233, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer245, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer257, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer269, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer281, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer293, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer305, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer317, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer329, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer341, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer353, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer365, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer378, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer390, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer402, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer414, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer427, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer439, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer451, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer463, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer475, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer487, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer499, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer511, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer523, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer535, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer548, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer560, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer572, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer584, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer596, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer608, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer620, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer634, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer646, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer658, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer670, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer683, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer695, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer707, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer719, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer731, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer743, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer757, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer769, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer781, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer793, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer805 {
+	-webkit-transform: translate(411.377px,19.133px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 19.35px;
+	left: -411.377px;
+	position: absolute;
+	top: -19.133px;
+	transform: translate(411.377px,19.133px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 71.82px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer077 {
+	-webkit-transform: translate(87.874px,330.653px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 284.49px;
+	left: -87.874px;
+	position: absolute;
+	top: -330.653px;
+	transform: translate(87.874px,330.653px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 252.28px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer079 {
+	-webkit-transform: translate(167.244px,93.416px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 284.59px;
+	left: -167.244px;
+	position: absolute;
+	top: -93.416px;
+	transform: translate(167.244px,93.416px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 252.28px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer089, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer173, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer185, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer222, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer282, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer379, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer440, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer452, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer476, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer512, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer720, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer732, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer770, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer794 {
+	-webkit-transform: translate(87.874px,93.416px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 517.03px;
+	left: -87.874px;
+	position: absolute;
+	top: -93.416px;
+	transform: translate(87.874px,93.416px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 255.12px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer091 {
+	-webkit-transform: translate(167.244px,93.416px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 372.47px;
+	left: -167.244px;
+	position: absolute;
+	top: -93.416px;
+	transform: translate(167.244px,93.416px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 255.12px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer101 {
+	-webkit-transform: translate(87.874px,93.416px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 369.63px;
+	left: -87.874px;
+	position: absolute;
+	top: -93.416px;
+	transform: translate(87.874px,93.416px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 266.46px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer103, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer139, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer175, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer224, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer296, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer320, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer356, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer430, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer478, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer514, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer563, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer575, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer686, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer698, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer760, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer784 {
+	-webkit-transform: translate(167.244px,98.212px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 516.93px;
+	left: -167.244px;
+	position: absolute;
+	top: -98.212px;
+	transform: translate(167.244px,98.212px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 255.12px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer113 {
+	-webkit-transform: translate(87.874px,93.416px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 517.03px;
+	left: -87.874px;
+	position: absolute;
+	top: -93.416px;
+	transform: translate(87.874px,93.416px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 296.22px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer115 {
+	-webkit-transform: translate(167.244px,93.359px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 559.61px;
+	left: -167.244px;
+	position: absolute;
+	top: -93.359px;
+	transform: translate(167.244px,93.359px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 255.12px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer125 {
+	-webkit-transform: translate(87.874px,93.416px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 511.84px;
+	left: -87.874px;
+	position: absolute;
+	top: -93.416px;
+	transform: translate(87.874px,93.416px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 270.24px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer137 {
+	-webkit-transform: translate(-0.001px,-0.001px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 680.31px;
+	left: 0.001px;
+	position: absolute;
+	top: 0.001px;
+	transform: translate(-0.001px,-0.001px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 439.37px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer149 {
+	-webkit-transform: translate(87.874px,98.212px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 516.93px;
+	left: -87.874px;
+	position: absolute;
+	top: -98.212px;
+	transform: translate(87.874px,98.212px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 293.39px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer161, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer197, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer306, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer500, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer561, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer573, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer597, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer623, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer746, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer782 {
+	-webkit-transform: translate(87.874px,98.212px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 516.93px;
+	left: -87.874px;
+	position: absolute;
+	top: -98.212px;
+	transform: translate(87.874px,98.212px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 255.12px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer163, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer187, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer272, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer308, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer454, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer466, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer502, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer551, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer611, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer625, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer710, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer734, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer772 {
+	-webkit-transform: translate(167.244px,93.416px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 517.03px;
+	left: -167.244px;
+	position: absolute;
+	top: -93.416px;
+	transform: translate(167.244px,93.416px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 255.12px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer212 {
+	-webkit-transform: translate(167.244px,98.212px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 516.93px;
+	left: -167.244px;
+	position: absolute;
+	top: -98.212px;
+	transform: translate(167.244px,98.212px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 308.03px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer234 {
+	-webkit-transform: translate(87.874px,93.416px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 422.07px;
+	left: -87.874px;
+	position: absolute;
+	top: -93.416px;
+	transform: translate(87.874px,93.416px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 255.12px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer246 {
+	-webkit-transform: translate(87.874px,98.212px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 516.93px;
+	left: -87.874px;
+	position: absolute;
+	top: -98.212px;
+	transform: translate(87.874px,98.212px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 300.47px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer248 {
+	-webkit-transform: translate(167.244px,127.141px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 488.00px;
+	left: -167.244px;
+	position: absolute;
+	top: -127.141px;
+	transform: translate(167.244px,127.141px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 333.07px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer258 {
+	-webkit-transform: translate(87.874px,93.416px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 321.44px;
+	left: -87.874px;
+	position: absolute;
+	top: -93.416px;
+	transform: translate(87.874px,93.416px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 260.79px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer284 {
+	-webkit-transform: translate(167.244px,319.314px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 295.83px;
+	left: -167.244px;
+	position: absolute;
+	top: -319.314px;
+	transform: translate(167.244px,319.314px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 255.12px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer294, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer330, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer428, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer609 {
+	-webkit-transform: translate(87.874px,330.653px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 284.49px;
+	left: -87.874px;
+	position: absolute;
+	top: -330.653px;
+	transform: translate(87.874px,330.653px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 255.12px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer318, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer659, .SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer696 {
+	-webkit-transform: translate(87.874px,93.416px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 284.59px;
+	left: -87.874px;
+	position: absolute;
+	top: -93.416px;
+	transform: translate(87.874px,93.416px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 255.12px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer332 {
+	-webkit-transform: translate(167.244px,93.416px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 517.03px;
+	left: -167.244px;
+	position: absolute;
+	top: -93.416px;
+	transform: translate(167.244px,93.416px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 286.30px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer342 {
+	-webkit-transform: translate(87.874px,93.416px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 458.92px;
+	left: -87.874px;
+	position: absolute;
+	top: -93.416px;
+	transform: translate(87.874px,93.416px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 270.71px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer344 {
+	-webkit-transform: translate(167.244px,93.416px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 492.94px;
+	left: -167.244px;
+	position: absolute;
+	top: -93.416px;
+	transform: translate(167.244px,93.416px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 260.08px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer354 {
+	-webkit-transform: translate(87.874px,317.897px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 297.25px;
+	left: -87.874px;
+	position: absolute;
+	top: -317.897px;
+	transform: translate(87.874px,317.897px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 255.12px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer381 {
+	-webkit-transform: translate(167.244px,93.416px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 284.59px;
+	left: -167.244px;
+	position: absolute;
+	top: -93.416px;
+	transform: translate(167.244px,93.416px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 255.12px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer391 {
+	-webkit-transform: translate(87.874px,93.416px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 284.59px;
+	left: -87.874px;
+	position: absolute;
+	top: -93.416px;
+	transform: translate(87.874px,93.416px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 256.06px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer403 {
+	-webkit-transform: translate(87.874px,93.416px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 386.64px;
+	left: -87.874px;
+	position: absolute;
+	top: -93.416px;
+	transform: translate(87.874px,93.416px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 343.94px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer405 {
+	-webkit-transform: translate(167.244px,93.416px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 216.56px;
+	left: -167.244px;
+	position: absolute;
+	top: -93.416px;
+	transform: translate(167.244px,93.416px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 255.12px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer418 {
+	-webkit-transform: translate(167.244px,400.402px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 214.74px;
+	left: -167.244px;
+	position: absolute;
+	top: -400.402px;
+	transform: translate(167.244px,400.402px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 255.12px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer464 {
+	-webkit-transform: translate(87.874px,330.653px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 284.49px;
+	left: -87.874px;
+	position: absolute;
+	top: -330.653px;
+	transform: translate(87.874px,330.653px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 327.40px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer490 {
+	-webkit-transform: translate(167.244px,65.614px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 549.53px;
+	left: -167.244px;
+	position: absolute;
+	top: -65.614px;
+	transform: translate(167.244px,65.614px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 255.12px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer524 {
+	-webkit-transform: translate(87.874px,93.416px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 259.74px;
+	left: -87.874px;
+	position: absolute;
+	top: -93.416px;
+	transform: translate(87.874px,93.416px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 255.12px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer526 {
+	-webkit-transform: translate(167.244px,265.402px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 349.74px;
+	left: -167.244px;
+	position: absolute;
+	top: -265.402px;
+	transform: translate(167.244px,265.402px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 255.12px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer549 {
+	-webkit-transform: translate(87.874px,330.653px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 284.49px;
+	left: -87.874px;
+	position: absolute;
+	top: -330.653px;
+	transform: translate(87.874px,330.653px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 270.71px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer585 {
+	-webkit-transform: translate(87.874px,98.212px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 517.93px;
+	left: -87.874px;
+	position: absolute;
+	top: -98.212px;
+	transform: translate(87.874px,98.212px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 286.30px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer587 {
+	-webkit-transform: translate(167.244px,127.559px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 488.59px;
+	left: -167.244px;
+	position: absolute;
+	top: -127.559px;
+	transform: translate(167.244px,127.559px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 255.12px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer599 {
+	-webkit-transform: translate(167.244px,129.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 486.15px;
+	left: -167.244px;
+	position: absolute;
+	top: -129.000px;
+	transform: translate(167.244px,129.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 255.12px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer635 {
+	-webkit-transform: translate(87.874px,98.212px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 516.93px;
+	left: -87.874px;
+	position: absolute;
+	top: -98.212px;
+	transform: translate(87.874px,98.212px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 321.73px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer637 {
+	-webkit-transform: translate(167.244px,128.724px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 486.42px;
+	left: -167.244px;
+	position: absolute;
+	top: -128.724px;
+	transform: translate(167.244px,128.724px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 331.65px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer647 {
+	-webkit-transform: translate(87.874px,93.416px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 199.74px;
+	left: -87.874px;
+	position: absolute;
+	top: -93.416px;
+	transform: translate(87.874px,93.416px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 255.12px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer661 {
+	-webkit-transform: translate(167.244px,93.416px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 289.74px;
+	left: -167.244px;
+	position: absolute;
+	top: -93.416px;
+	transform: translate(167.244px,93.416px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 291.26px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer671 {
+	-webkit-transform: translate(87.874px,98.212px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 516.93px;
+	left: -87.874px;
+	position: absolute;
+	top: -98.212px;
+	transform: translate(87.874px,98.212px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 277.80px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer673 {
+	-webkit-transform: translate(167.244px,93.416px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 274.74px;
+	left: -167.244px;
+	position: absolute;
+	top: -93.416px;
+	transform: translate(167.244px,93.416px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 255.12px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer674 {
+	-webkit-transform: translate(171.852px,203.758px) rotate(180.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 19.53px;
+	left: -171.852px;
+	position: absolute;
+	top: -203.758px;
+	transform: translate(171.852px,203.758px) rotate(180.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 4.61px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer684 {
+	-webkit-transform: translate(-0.001px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 680.31px;
+	left: 0.001px;
+	position: absolute;
+	top: 0.000px;
+	transform: translate(-0.001px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 439.37px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer708 {
+	-webkit-transform: translate(87.874px,340.402px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 274.74px;
+	left: -87.874px;
+	position: absolute;
+	top: -340.402px;
+	transform: translate(87.874px,340.402px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 255.12px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer758 {
+	-webkit-transform: translate(87.874px,93.416px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 351.21px;
+	left: -87.874px;
+	position: absolute;
+	top: -93.416px;
+	transform: translate(87.874px,93.416px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 255.12px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer796 {
+	-webkit-transform: translate(167.244px,119.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 496.15px;
+	left: -167.244px;
+	position: absolute;
+	top: -119.000px;
+	transform: translate(167.244px,119.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 255.12px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer806 {
+	-webkit-transform: translate(170.078px,93.852px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 88.56px;
+	left: -170.078px;
+	position: absolute;
+	top: -93.852px;
+	transform: translate(170.078px,93.852px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 255.12px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer807 {
+	-webkit-transform: translate(167.244px,261.703px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 359.75px;
+	left: -167.244px;
+	position: absolute;
+	top: -261.703px;
+	transform: translate(167.244px,261.703px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 255.12px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer808 {
+	-webkit-transform: translate(87.874px,94.459px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 522.13px;
+	left: -87.874px;
+	position: absolute;
+	top: -94.459px;
+	transform: translate(87.874px,94.459px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 255.12px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer809 {
+	-webkit-transform: translate(167.244px,94.459px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 527.80px;
+	left: -167.244px;
+	position: absolute;
+	top: -94.459px;
+	transform: translate(167.244px,94.459px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 255.12px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer810 {
+	-webkit-transform: translate(87.874px,94.459px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 525.20px;
+	left: -87.874px;
+	position: absolute;
+	top: -94.459px;
+	transform: translate(87.874px,94.459px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 255.12px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer811 {
+	-webkit-transform: translate(167.244px,94.459px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 525.20px;
+	left: -167.244px;
+	position: absolute;
+	top: -94.459px;
+	transform: translate(167.244px,94.459px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 255.12px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer812 {
+	-webkit-transform: translate(87.874px,93.459px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 523.13px;
+	left: -87.874px;
+	position: absolute;
+	top: -93.459px;
+	transform: translate(87.874px,93.459px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 255.12px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer813 {
+	-webkit-transform: translate(167.244px,93.459px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 398.64px;
+	left: -167.244px;
+	position: absolute;
+	top: -93.459px;
+	transform: translate(167.244px,93.459px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 255.12px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer814 {
+	-webkit-transform: translate(170.078px,581.519px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 33.35px;
+	left: -170.078px;
+	position: absolute;
+	top: -581.519px;
+	transform: translate(170.078px,581.519px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 255.12px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer815 {
+	-webkit-transform: translate(42.519px,8.208px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 668.70px;
+	left: -42.519px;
+	position: absolute;
+	top: -8.208px;
+	transform: translate(42.519px,8.208px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 467.72px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer816 {
+	-webkit-transform: translate(-0.001px,8.208px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 668.70px;
+	left: 0.001px;
+	position: absolute;
+	top: -8.208px;
+	transform: translate(-0.001px,8.208px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 477.67px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer817 {
+	-webkit-transform: translate(127.559px,377.897px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 231.72px;
+	left: -127.559px;
+	position: absolute;
+	top: -377.897px;
+	transform: translate(127.559px,377.897px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 255.12px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer818 {
+	-webkit-transform: translate(85.984px,85.852px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 169.22px;
+	left: -85.984px;
+	position: absolute;
+	top: -85.852px;
+	transform: translate(85.984px,85.852px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 204.80px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer819 {
+	-webkit-transform: translate(85.984px,264.907px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	background-image: none;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 133.96px;
+	left: -85.984px;
+	position: absolute;
+	top: -264.907px;
+	transform: translate(85.984px,264.907px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 204.80px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer820 {
+	-webkit-transform: translate(0.000px,-8.643px) rotate(0.000deg) skew(0.000deg) scale(20.000,20.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 42.09px;
+	left: 0.000px;
+	position: absolute;
+	top: 8.643px;
+	transform: translate(0.000px,-8.643px) rotate(0.000deg) skew(0.000deg) scale(20.000,20.000);
+	transform-origin: 0% 0%;
+	width: 56.69px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer821 {
+	-webkit-transform: translate(85.984px,398.840px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 195.71px;
+	left: -85.984px;
+	position: absolute;
+	top: -398.840px;
+	transform: translate(85.984px,398.840px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 204.80px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer822 {
+	-webkit-transform: translate(213.732px,568.332px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 26.22px;
+	left: -213.732px;
+	position: absolute;
+	top: -568.332px;
+	transform: translate(213.732px,568.332px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 210.52px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer823 {
+	-webkit-transform: translate(7.030px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 7.50px;
+	left: -7.030px;
+	position: absolute;
+	top: 0.000px;
+	transform: translate(7.030px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 15.65px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer824 {
+	-webkit-transform: translate(0.000px,0.664px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 6.24px;
+	left: 0.000px;
+	position: absolute;
+	top: -0.664px;
+	transform: translate(0.000px,0.664px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 5.46px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer825 {
+	-webkit-transform: translate(213.732px,560.105px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 7.50px;
+	left: -213.732px;
+	position: absolute;
+	top: -560.105px;
+	transform: translate(213.732px,560.105px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 22.68px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer826 {
+	-webkit-transform: translate(1.211px,-0.001px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 680.31px;
+	left: -1.211px;
+	position: absolute;
+	top: 0.001px;
+	transform: translate(1.211px,-0.001px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 509.03px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer828 {
+	-webkit-transform: translate(91.653px,75.114px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 228.03px;
+	left: -91.653px;
+	position: absolute;
+	top: -75.114px;
+	transform: translate(91.653px,75.114px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 276.85px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer830 {
+	-webkit-transform: translate(63.057px,75.114px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 137.60px;
+	left: -63.057px;
+	position: absolute;
+	top: -75.114px;
+	transform: translate(63.057px,75.114px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 215.49px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer831 {
+	-webkit-transform: translate(63.112px,637.822px) rotate(270.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 36.09px;
+	left: -63.112px;
+	position: absolute;
+	top: -637.822px;
+	transform: translate(63.112px,637.822px) rotate(270.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 70.87px
+}
+.SCIdFxlObj.SCIdFxlObj3_ARTEMUDA_210621._idContainer832 {
+	-webkit-transform: translate(207.679px,590.470px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin: 0% 0%;
+	height: 47.35px;
+	left: -207.679px;
+	position: absolute;
+	top: -590.470px;
+	transform: translate(207.679px,590.470px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin: 0% 0%;
+	width: 70.87px
+}
+img._idGenObjectAttribute-1 {
+	height:100.00%;
+	min-width:100%;
+	width:100.00%;
+}
+img._idGenObjectAttribute-2 {
+	left:0px;
+	position:absolute;
+	top:0px;
+}
+div._idGenObjectStyle-Disabled {
+	background-color:transparent;
+	border-width:0px;
+}
+div._idGenButton div._idGen-Appearance-Normal {
+	visibility:visible;
+}
+div._idGenButton div._idGen-Appearance-Rollover {
+	visibility:hidden;
+}
+div._idGenButton div._idGen-Appearance-Click {
+	visibility:hidden;
+}
+div._idGenButton {
+	cursor:pointer;
+}
+div._idGenButton._idGenStateHover div._idGen-Appearance-Normal {
+	visibility:hidden;
+}
+div._idGenButton._idGenStateHover div._idGen-Appearance-Rollover {
+	visibility:visible;
+}
+div._idGenButton._idGenStateHover div._idGen-Appearance-Click {
+	visibility:hidden;
+}
+div._idGenButton._idGenStateClick div._idGen-Appearance-Normal {
+	visibility:hidden;
+}
+div._idGenButton._idGenStateClick div._idGen-Appearance-Rollover {
+	visibility:hidden;
+}
+div._idGenButton._idGenStateClick div._idGen-Appearance-Click {
+	visibility:visible;
+}
+div._idGenStateHide div._idGen-Appearance-Normal {
+	visibility:hidden;
+}
+div._idGenStateHide div._idGen-Appearance-Rollover {
+	visibility:hidden;
+}
+div._idGenStateHide div._idGen-Appearance-Click {
+	visibility:hidden;
+}
+div._idGenStateHide, div._idGenStateHide * {
+	visibility:hidden;
+}
+
+.SCPage {
+background-color: #FFFFFF
+}

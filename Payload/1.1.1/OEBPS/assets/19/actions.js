@@ -1,7 +1,7 @@
-pubcoder.projectID = pubcoder.projectID || "C58DD98ADA6D44539420920C7C601475";
-pubcoder.project.id = pubcoder.project.id || "C58DD98ADA6D44539420920C7C601475";
-pubcoder.project.title = pubcoder.project.title || "210723_Desaforismos";
-pubcoder.page.id = pubcoder.page.id || 4517;
+pubcoder.projectID = pubcoder.projectID || "9BAFAFFC54C447E991DC838D64F52FA6";
+pubcoder.project.id = pubcoder.project.id || "9BAFAFFC54C447E991DC838D64F52FA6";
+pubcoder.project.title = pubcoder.project.title || "210721_a arte muda da fuga";
+pubcoder.page.id = pubcoder.page.id || 116;
 pubcoder.page.title = pubcoder.page.title || "19";
 pubcoder.page.number = pubcoder.page.number || 19;
 pubcoder.page.alias = pubcoder.page.alias || "";
@@ -19,7 +19,9 @@ var askAudioPermission = false;
  *
  * 
  */
-
+var obj2233_onTap_activeActionGroupIndex = -1;
+var obj2233_onTap_runningActionsCount = 0;
+var obj2233_onTap_loopCount = 0;
 /*
  * 
  * Init SCCounter
@@ -97,6 +99,79 @@ var askAudioPermission = false;
 	 	 *
 	 	 */
 		
+obj2233_onTap_actionGroup0 = function(){
+	isLastActionGroup = false;
+	if (isLastActionGroup) {
+		window.obj2233_onTap_activeActionGroupIndex = -1;
+		$("#obj2233").trigger("obj2233_onTap_ended");
+		
+		return;
+	}
+	window.obj2233_onTap_activeActionGroupIndex = 0;
+	
+//	action: goToPage
+goToPage_2235();
+function goToPage_2235() {
+	window.obj2233_onTap_runningActionsCount = obj2233_onTap_runningActionsCount + 1;
+	$("#anchor140")[0].click();
+	window.obj2233_onTap_runningActionsCount = window.obj2233_onTap_runningActionsCount - 1;
+if (window.obj2233_onTap_runningActionsCount == 0) {
+	obj2233_onTap_actionGroup1();
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+};
+obj2233_onTap_actionGroup1 = function(){
+	isLastActionGroup = true;
+	if (isLastActionGroup) {
+		window.obj2233_onTap_activeActionGroupIndex = -1;
+		$("#obj2233").trigger("obj2233_onTap_ended");
+		
+		return;
+	}
+	window.obj2233_onTap_activeActionGroupIndex = 1;
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+};
 		
 		/*
 		 *
@@ -128,6 +203,26 @@ var askAudioPermission = false;
 
 
 
+
+
+
+/*
+ *
+ *   obj2233: Event Touch Down
+ *
+ */
+$("#obj2233").bind(PubCoder.Events.Tap, function(event) {
+	event.preventDefault();	
+	if (window.obj2233_onTap_activeActionGroupIndex != -1) return;
+var obj2233_onTap_runningActionsCount = 0;
+var obj2233_onTap_loopCount = 0;
+obj2233_onTap_actionGroup0();
+});
+
+
+
+
+
 		
 		
 		/*
@@ -141,8 +236,9 @@ var askAudioPermission = false;
 $(window).on(PubCoder.Events.PagePlay, function() {
 	$(window).trigger(PubCoder.Events.PageReady);
 	
-$("#obj4518").trigger('SCEventShow');
-$("#obj4544").trigger('SCEventShow');
-$("#obj4547").trigger('SCEventShow');
+$("#obj117").trigger('SCEventShow');
+$("#obj118").trigger('SCEventShow');
+$("#obj119").trigger('SCEventShow');
+$("#obj2233").trigger('SCEventShow');
 	
 });
