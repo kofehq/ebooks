@@ -1,0 +1,1225 @@
+<?xml version="1.0"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="3.0" prefix="rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<!-- METADATA -->
+	<meta name="generator" content="PubCoder for Mac OS X"/>
+	<meta property="rendition:layout">pre-paginated</meta>	
+	<meta property="rendition:orientation">auto</meta>
+	
+	<meta property="dcterms:modified">2021-07-26T16:01:25Z</meta>
+	<meta property="media:active-class">-epub-media-overlay-active</meta>
+	<meta property="media:duration">00:00:00</meta>
+	
+	<dc:title>210723_Desaforismos</dc:title>
+	<dc:creator>Raquel Matsushita</dc:creator>
+	<dc:description>Powered by PubCoder</dc:description>
+	<dc:publisher>Maralto</dc:publisher>
+	<dc:date>2021-07-26</dc:date>
+	<dc:rights>© 2020 PSD Educação S/A.</dc:rights>
+	<dc:language>pt</dc:language>
+	<dc:identifier id="BookID">C58DD98ADA6D44539420920C7C601475</dc:identifier>
+	<meta name="cover" content="cover-image" />
+</metadata>	
+<!-- MANIFEST -->
+	<manifest>
+<!-- GENERAL ASSETS  -->
+		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+		<item id="cssContent" href="css/general.styles.css" media-type="text/css"/>
+		<item id="animateCss" href="css/animate.css" media-type="text/css"/>
+		<item id="cover-image" properties="cover-image" href="assets/images/pubcoder_book_cover.jpg" media-type="image/jpeg"/>
+		
+		<item id="SCNavigationLeft-image" href="images/scnavigation-prev-btn.png" media-type="image/png"/>
+		<item id="SCNavigationLeft-image-active" href="images/scnavigation-prev-btn-active.png" media-type="image/png"/>
+		<item id="SCNavigationLeft-image-hover" href="images/scnavigation-prev-btn-hover.png" media-type="image/png"/>
+		<item id="SCNavigationRight-image" href="images/scnavigation-next-btn.png" media-type="image/png"/>
+		<item id="SCNavigationRight-image-active" href="images/scnavigation-next-btn-active.png" media-type="image/png"/>
+		<item id="SCNavigationRight-image-hover" href="images/scnavigation-next-btn-hover.png" media-type="image/png"/>
+		<item id="SCPhotoGallery-fullscreen-close-image" href="images/scphotogallery-fullscreen-close.png" media-type="image/png"/>
+		<item id="SCPhotoGallery-fullscreen-open-image" href="images/scphotogallery-fullscreen-open.png" media-type="image/png"/>
+		<item id="SCPhotoGallery-index-close-image" href="images/scphotogallery-index-close.png" media-type="image/png"/>
+		<item id="SCPhotoGallery-index-open-image" href="images/scphotogallery-index-open.png" media-type="image/png"/>
+		<item id="SCPhotoGallery-next-image" href="images/scphotogallery-next.png" media-type="image/png"/>
+		<item id="SCPhotoGallery-prev-image" href="images/scphotogallery-prev.png" media-type="image/png"/>
+		<item id="SCPhotoGallery-thumb-next-image" href="images/scphotogallery-thumb-next.png" media-type="image/png"/>
+		<item id="SCPhotoGallery-thumb-prev-image" href="images/scphotogallery-thumb-prev.png" media-type="image/png"/>
+		
+		<item id="SCQuiz-check-off" href="images/scquiz-check-off.png" media-type="image/png"/>
+		<item id="SCQuiz-check-on" href="images/scquiz-check-on.png" media-type="image/png"/>
+		<item id="SCQuiz-check-right" href="images/scquiz-check-right.png" media-type="image/png"/>
+		<item id="SCQuiz-check-wrong" href="images/scquiz-check-wrong.png" media-type="image/png"/>
+		<item id="SCQuiz-radio-off" href="images/scquiz-radio-off.png" media-type="image/png"/>
+		<item id="SCQuiz-radio-on" href="images/scquiz-radio-on.png" media-type="image/png"/>
+		<item id="SCQuiz-radio-right" href="images/scquiz-radio-right.png" media-type="image/png"/>
+		<item id="SCQuiz-radio-wrong" href="images/scquiz-radio-wrong.png" media-type="image/png"/>
+		<item id="SCQuiz-next" href="images/scquiz-next.png" media-type="image/png"/>
+		<item id="SCQuiz-prev" href="images/scquiz-prev.png" media-type="image/png"/>
+		<item id="SCQuiz-radio-missed" href="images/scquiz-radio-missed.png" media-type="image/png"/>
+		<item id="SCQuiz-check-missed" href="images/scquiz-check-missed.png" media-type="image/png"/>
+		<item id="SCDrawer-trash" href="images/scdrawer-trash.png" media-type="image/png"/>
+        <item id="SCDrawer-transparent" href="images/scdrawer-transparent_color.png" media-type="image/png"/>
+        <item id="SCDrawer-tool-drawer" href="images/scdrawer-draw_tool_icon.png" media-type="image/png"/>
+        <item id="SCDrawer-tool-eraser" href="images/scdrawer-erase_tool_icon.png" media-type="image/png"/>
+        <item id="SCDrawer-tool-filler" href="images/scdrawer-fill_tool_icon.png" media-type="image/png"/>
+        <item id="SCDrawer-tool-crayon" href="images/scdrawer-crayon_tool_icon.png" media-type="image/png"/>
+		
+<!-- FONTS -->		
+		
+<item id="font1" href="fonts/OpenDyslexic3.ttf" media-type="application/x-font-truetype"/>
+<item id="font2" href="fonts/Anonymous-Pro.ttf" media-type="application/x-font-truetype"/>
+<item id="font3" href="fonts/Droid-Sans.ttf" media-type="application/x-font-truetype"/>
+<item id="font4" href="fonts/Tinos.ttf" media-type="application/x-font-truetype"/>
+<item id="font5" href="fonts/Didot.ttf" media-type="application/x-font-truetype"/>
+<item id="font6" href="fonts/Roboto-Mono.ttf" media-type="application/x-font-truetype"/>
+<item id="font7" href="fonts/Roboto-Slab.ttf" media-type="application/x-font-truetype"/>
+<item id="font8" href="fonts/Open-Sans.ttf" media-type="application/x-font-truetype"/>
+<item id="font9" href="fonts/Roboto.ttf" media-type="application/x-font-truetype"/>
+<item id="font10" href="fonts/Source-Sans-Pro.ttf" media-type="application/x-font-truetype"/>
+<item id="font11" href="fonts/Source-Code-Pro.ttf" media-type="application/x-font-truetype"/>
+<item id="font12" href="fonts/Droid-Serif.ttf" media-type="application/x-font-truetype"/>
+<item id="font13" href="fonts/Droid-Sans-Mono.ttf" media-type="application/x-font-truetype"/>
+<item id="font14" href="fonts/Lato.ttf" media-type="application/x-font-truetype"/>
+<!-- JAVASCRIPT -->
+				<item id="jquery" href="js/jquery.js" media-type="text/javascript" />
+        <item id="spritespin_api" href="js/spritespin.api.js" media-type="text/javascript" />
+        <item id="spritespin" href="js/spritespin.js" media-type="text/javascript" />
+		<item id="spritespin_mod_360" href="js/spritespin.mod-360.js" media-type="text/javascript" />
+		<item id="jquery_ui" href="js/jquery.ui.js" media-type="text/javascript" />
+		<item id="jquery_scrollTo" href="js/jquery.scrollTo.min.js" media-type="text/javascript" />
+		<item id="jquery_easie" href="js/jquery.easie-min.js" media-type="text/javascript" />
+		<item id="jquery_move" href='js/jquery.move.js' media-type="text/javascript" />
+		<item id="jquery_SCswipe" href='js/jquery.SCswipe.js' media-type="text/javascript" />
+		<item id="jquery-css-transform" href='js/jquery-css-transform.js' media-type="text/javascript" />
+		<item id="jquery-animate-css-rotate-scale" href='js/jquery-animate-css-rotate-scale.js' media-type="text/javascript" />
+		<item id="jquery-animate-shadow" href='js/jquery.animate-shadow-min.js' media-type="text/javascript" />
+        <item id="jquery_panzoom_js" href='js/jquery.panzoom.min.js' media-type="text/javascript" />
+        <item id="underscore_js" href='js/underscore-min.js' media-type="text/javascript" />
+		<item id="remodal_js" href='js/remodal.js' media-type="text/javascript" />
+		<item id="pubcoder_js" href='js/pubcoder.js' media-type="text/javascript" />
+		<item id="pubcoder_devicemotion_js" href='js/pubcoder.devicemotion.js' media-type="text/javascript" />
+		<item id="pubcoder_general_functions" href='js/general.functions.js' media-type="text/javascript" />
+		<item id="unmask_js" href='js/unmask.js' media-type="text/javascript" />
+		<item id="swiper_js" href='js/idangerous.swiper-2.3.js' media-type="text/javascript" />
+		<item id="photogallery_js" href='js/photogallery.js' media-type="text/javascript" />
+		<item id="quiz_multi_js" href='js/quiz-multi.js' media-type="text/javascript" />
+		<item id="drawer_js" href='js/drawer.js' media-type="text/javascript" />
+		<item id="drawer_flood_fill_js" href='js/flood_fill.js' media-type="text/javascript" />
+        
+        <item id="scw_widgets_js" href='js/scw_widgets.js' media-type="text/javascript" />
+        <item id="scw_panzoom_js" href='js/scw_panzoom.js' media-type="text/javascript" />
+        <item id="scw_memory_game_js" href='js/scw_memory_game.js' media-type="text/javascript" />
+        
+		<item id="hammer_min_js" href='js/hammer.min.js' media-type="text/javascript" />
+		
+		
+<!-- SHARED ASSETS -->
+		
+<!-- PAGES ASSETS -->
+		<!--page 1-->
+<item id="js1" href="assets/1/actions.js" media-type="text/javascript" />
+<item id="css1" href="assets/1/styles.css" media-type="text/css"/>
+<item id="page1" pageid="2"
+      href="assets/1/page.xhtml" media-type="application/xhtml+xml" properties="svg scripted"
+      
+      />
+<item id="obj485_image" href="assets/images/obj485_image.jpeg" media-type="image/jpeg" />
+<item id="obj2231_image" href="assets/images/obj2231_image.jpeg" media-type="image/jpeg" />
+<item id="image15" href="assets/images/desaforismos.svg" media-type="image/svg+xml" />
+<item id="image16" href="assets/images/raquel.svg" media-type="image/svg+xml" />
+<item id="obj678_image" href="assets/images/obj678_image.png" media-type="image/png" />
+<item id="obj4934_sprite1" href="assets/images/obj4934_sprite1.png" media-type="image/png" />
+<item id="obj4934_sprite2" href="assets/images/obj4934_sprite2.png" media-type="image/png" />
+<item id="obj4934_sprite3" href="assets/images/obj4934_sprite3.png" media-type="image/png" />
+<item id="obj4934_sprite4" href="assets/images/obj4934_sprite4.png" media-type="image/png" />
+<item id="obj4934_sprite5" href="assets/images/obj4934_sprite5.png" media-type="image/png" />
+<item id="obj4934_sprite6" href="assets/images/obj4934_sprite6.png" media-type="image/png" />
+<item id="obj4934_sprite7" href="assets/images/obj4934_sprite7.png" media-type="image/png" />
+<item id="obj4934_sprite8" href="assets/images/obj4934_sprite8.png" media-type="image/png" />
+<item id="obj4934_sprite9" href="assets/images/obj4934_sprite9.png" media-type="image/png" />
+<item id="obj4934_sprite10" href="assets/images/obj4934_sprite10.png" media-type="image/png" />
+<item id="obj4934_sprite11" href="assets/images/obj4934_sprite11.png" media-type="image/png" />
+<item id="obj4934_sprite12" href="assets/images/obj4934_sprite12.png" media-type="image/png" />
+<item id="obj4934_sprite13" href="assets/images/obj4934_sprite13.png" media-type="image/png" />
+<item id="obj4934_sprite14" href="assets/images/obj4934_sprite14.png" media-type="image/png" />
+<item id="obj4934_sprite15" href="assets/images/obj4934_sprite15.png" media-type="image/png" />
+<item id="obj4934_sprite16" href="assets/images/obj4934_sprite16.png" media-type="image/png" />
+<item id="obj4934_sprite17" href="assets/images/obj4934_sprite17.png" media-type="image/png" />
+<item id="obj4934_sprite18" href="assets/images/obj4934_sprite18.png" media-type="image/png" />
+<item id="obj4934_sprite19" href="assets/images/obj4934_sprite19.png" media-type="image/png" />
+<item id="obj4934_sprite20" href="assets/images/obj4934_sprite20.png" media-type="image/png" />
+<item id="obj4934_sprite21" href="assets/images/obj4934_sprite21.png" media-type="image/png" />
+<item id="obj4934_sprite22" href="assets/images/obj4934_sprite22.png" media-type="image/png" />
+<item id="obj4934_sprite23" href="assets/images/obj4934_sprite23.png" media-type="image/png" />
+<item id="obj4934_sprite24" href="assets/images/obj4934_sprite24.png" media-type="image/png" />
+<item id="obj4934_sprite25" href="assets/images/obj4934_sprite25.png" media-type="image/png" />
+<item id="obj4934_sprite26" href="assets/images/obj4934_sprite26.png" media-type="image/png" />
+<item id="obj4934_sprite27" href="assets/images/obj4934_sprite27.png" media-type="image/png" />
+<item id="obj4934_sprite28" href="assets/images/obj4934_sprite28.png" media-type="image/png" />
+<item id="obj4934_sprite29" href="assets/images/obj4934_sprite29.png" media-type="image/png" />
+<item id="obj4934_sprite30" href="assets/images/obj4934_sprite30.png" media-type="image/png" />
+<item id="obj4934_sprite31" href="assets/images/obj4934_sprite31.png" media-type="image/png" />
+<item id="obj4934_sprite32" href="assets/images/obj4934_sprite32.png" media-type="image/png" />
+<item id="obj4934_sprite33" href="assets/images/obj4934_sprite33.png" media-type="image/png" />
+<item id="obj4934_sprite34" href="assets/images/obj4934_sprite34.png" media-type="image/png" />
+<item id="obj4934_sprite35" href="assets/images/obj4934_sprite35.png" media-type="image/png" />
+<item id="obj4934_sprite36" href="assets/images/obj4934_sprite36.png" media-type="image/png" />
+<item id="obj4934_sprite37" href="assets/images/obj4934_sprite37.png" media-type="image/png" />
+<item id="obj4934_sprite38" href="assets/images/obj4934_sprite38.png" media-type="image/png" />
+<item id="obj4934_sprite39" href="assets/images/obj4934_sprite39.png" media-type="image/png" />
+<item id="obj4934_sprite40" href="assets/images/obj4934_sprite40.png" media-type="image/png" />
+<item id="obj4934_sprite41" href="assets/images/obj4934_sprite41.png" media-type="image/png" />
+<item id="obj4934_sprite42" href="assets/images/obj4934_sprite42.png" media-type="image/png" />
+<item id="obj4934_sprite43" href="assets/images/obj4934_sprite43.png" media-type="image/png" />
+<item id="obj4934_sprite44" href="assets/images/obj4934_sprite44.png" media-type="image/png" />
+<item id="obj4934_sprite45" href="assets/images/obj4934_sprite45.png" media-type="image/png" />
+<item id="obj4934_sprite46" href="assets/images/obj4934_sprite46.png" media-type="image/png" />
+<item id="obj4934_sprite47" href="assets/images/obj4934_sprite47.png" media-type="image/png" />
+<item id="obj4934_sprite48" href="assets/images/obj4934_sprite48.png" media-type="image/png" />
+<item id="obj4934_sprite49" href="assets/images/obj4934_sprite49.png" media-type="image/png" />
+<item id="obj4934_sprite50" href="assets/images/obj4934_sprite50.png" media-type="image/png" />
+<item id="obj4934_sprite51" href="assets/images/obj4934_sprite51.png" media-type="image/png" />
+<item id="obj4934_sprite52" href="assets/images/obj4934_sprite52.png" media-type="image/png" />
+<item id="obj4934_sprite53" href="assets/images/obj4934_sprite53.png" media-type="image/png" />
+<item id="obj4934_sprite54" href="assets/images/obj4934_sprite54.png" media-type="image/png" />
+<item id="obj4934_sprite55" href="assets/images/obj4934_sprite55.png" media-type="image/png" />
+<item id="obj4934_sprite56" href="assets/images/obj4934_sprite56.png" media-type="image/png" />
+<item id="obj4934_sprite57" href="assets/images/obj4934_sprite57.png" media-type="image/png" />
+<item id="obj4934_sprite58" href="assets/images/obj4934_sprite58.png" media-type="image/png" />
+<item id="obj4934_sprite59" href="assets/images/obj4934_sprite59.png" media-type="image/png" />
+<item id="obj4934_sprite60" href="assets/images/obj4934_sprite60.png" media-type="image/png" />
+<item id="obj4934_sprite61" href="assets/images/obj4934_sprite61.png" media-type="image/png" />
+<item id="obj4934_sprite62" href="assets/images/obj4934_sprite62.png" media-type="image/png" />
+<item id="obj4934_sprite63" href="assets/images/obj4934_sprite63.png" media-type="image/png" />
+<item id="obj4934_sprite64" href="assets/images/obj4934_sprite64.png" media-type="image/png" />
+<item id="obj4934_sprite65" href="assets/images/obj4934_sprite65.png" media-type="image/png" />
+<item id="obj4934_sprite66" href="assets/images/obj4934_sprite66.png" media-type="image/png" />
+<item id="obj4934_sprite67" href="assets/images/obj4934_sprite67.png" media-type="image/png" />
+<item id="obj4934_sprite68" href="assets/images/obj4934_sprite68.png" media-type="image/png" />
+<item id="obj4934_sprite69" href="assets/images/obj4934_sprite69.png" media-type="image/png" />
+<item id="obj4934_sprite70" href="assets/images/obj4934_sprite70.png" media-type="image/png" />
+<item id="obj4934_sprite71" href="assets/images/obj4934_sprite71.png" media-type="image/png" />
+<item id="obj4934_sprite72" href="assets/images/obj4934_sprite72.png" media-type="image/png" />
+<item id="obj4934_sprite73" href="assets/images/obj4934_sprite73.png" media-type="image/png" />
+<item id="obj4934_sprite74" href="assets/images/obj4934_sprite74.png" media-type="image/png" />
+<item id="obj4934_sprite75" href="assets/images/obj4934_sprite75.png" media-type="image/png" />
+<item id="obj4934_sprite76" href="assets/images/obj4934_sprite76.png" media-type="image/png" />
+<item id="obj4934_sprite77" href="assets/images/obj4934_sprite77.png" media-type="image/png" />
+<item id="obj4934_sprite78" href="assets/images/obj4934_sprite78.png" media-type="image/png" />
+<item id="obj4934_sprite79" href="assets/images/obj4934_sprite79.png" media-type="image/png" />
+<item id="obj4934_sprite80" href="assets/images/obj4934_sprite80.png" media-type="image/png" />
+<item id="obj4934_sprite81" href="assets/images/obj4934_sprite81.png" media-type="image/png" />
+<item id="thumbnail1" href="assets/1/thumbnail.png" media-type="image/png" />
+<item id="loading1" href="assets/1/loading.jpg" media-type="image/jpeg" />
+
+<!--page 1: end-->
+<!--page 2-->
+<item id="js2" href="assets/2/actions.js" media-type="text/javascript" />
+<item id="css2" href="assets/2/styles.css" media-type="text/css"/>
+<item id="page2" pageid="2068"
+      href="assets/2/page.xhtml" media-type="application/xhtml+xml" properties="svg scripted"
+      
+      />
+<item id="obj2071_sprite1" href="assets/images/obj2071_sprite1.jpeg" media-type="image/jpeg" />
+<item id="obj2071_sprite2" href="assets/images/obj2071_sprite2.jpeg" media-type="image/jpeg" />
+<item id="obj2071_sprite3" href="assets/images/obj2071_sprite3.jpeg" media-type="image/jpeg" />
+<item id="obj2071_sprite4" href="assets/images/obj2071_sprite4.jpeg" media-type="image/jpeg" />
+<item id="obj2071_sprite5" href="assets/images/obj2071_sprite5.jpeg" media-type="image/jpeg" />
+<item id="obj2071_sprite6" href="assets/images/obj2071_sprite6.jpeg" media-type="image/jpeg" />
+<item id="obj2071_sprite7" href="assets/images/obj2071_sprite7.jpeg" media-type="image/jpeg" />
+<item id="obj2071_sprite8" href="assets/images/obj2071_sprite8.jpeg" media-type="image/jpeg" />
+<item id="obj2071_sprite9" href="assets/images/obj2071_sprite9.jpeg" media-type="image/jpeg" />
+<item id="obj2071_sprite10" href="assets/images/obj2071_sprite10.jpeg" media-type="image/jpeg" />
+<item id="obj2071_sprite11" href="assets/images/obj2071_sprite11.jpeg" media-type="image/jpeg" />
+<item id="obj2071_sprite12" href="assets/images/obj2071_sprite12.jpeg" media-type="image/jpeg" />
+<item id="obj2071_sprite13" href="assets/images/obj2071_sprite13.jpeg" media-type="image/jpeg" />
+<item id="obj2071_sprite14" href="assets/images/obj2071_sprite14.jpeg" media-type="image/jpeg" />
+<item id="obj2071_sprite15" href="assets/images/obj2071_sprite15.jpeg" media-type="image/jpeg" />
+<item id="obj2071_sprite16" href="assets/images/obj2071_sprite16.jpeg" media-type="image/jpeg" />
+<item id="obj2071_sprite17" href="assets/images/obj2071_sprite17.jpeg" media-type="image/jpeg" />
+<item id="obj2071_sprite18" href="assets/images/obj2071_sprite18.jpeg" media-type="image/jpeg" />
+<item id="obj2071_sprite19" href="assets/images/obj2071_sprite19.jpeg" media-type="image/jpeg" />
+<item id="obj2071_sprite20" href="assets/images/obj2071_sprite20.jpeg" media-type="image/jpeg" />
+<item id="obj2071_sprite21" href="assets/images/obj2071_sprite21.jpeg" media-type="image/jpeg" />
+<item id="obj2071_sprite22" href="assets/images/obj2071_sprite22.jpeg" media-type="image/jpeg" />
+<item id="obj2071_sprite23" href="assets/images/obj2071_sprite23.jpeg" media-type="image/jpeg" />
+<item id="obj2071_sprite24" href="assets/images/obj2071_sprite24.jpeg" media-type="image/jpeg" />
+<item id="obj2071_sprite25" href="assets/images/obj2071_sprite25.jpeg" media-type="image/jpeg" />
+<item id="thumbnail2" href="assets/2/thumbnail.png" media-type="image/png" />
+<item id="loading2" href="assets/2/loading.jpg" media-type="image/jpeg" />
+
+<!--page 2: end-->
+<!--page 3-->
+<item id="js3" href="assets/3/actions.js" media-type="text/javascript" />
+<item id="css3" href="assets/3/styles.css" media-type="text/css"/>
+<item id="page3" pageid="924"
+      href="assets/3/page.xhtml" media-type="application/xhtml+xml" properties="scripted"
+      
+      />
+<item id="obj927_sprite1" href="assets/images/obj927_sprite1.jpeg" media-type="image/jpeg" />
+<item id="obj927_sprite2" href="assets/images/obj927_sprite2.jpeg" media-type="image/jpeg" />
+<item id="obj927_sprite3" href="assets/images/obj927_sprite3.jpeg" media-type="image/jpeg" />
+<item id="obj927_sprite4" href="assets/images/obj927_sprite4.jpeg" media-type="image/jpeg" />
+<item id="obj927_sprite5" href="assets/images/obj927_sprite5.jpeg" media-type="image/jpeg" />
+<item id="obj927_sprite6" href="assets/images/obj927_sprite6.jpeg" media-type="image/jpeg" />
+<item id="obj927_sprite7" href="assets/images/obj927_sprite7.jpeg" media-type="image/jpeg" />
+<item id="obj927_sprite8" href="assets/images/obj927_sprite8.jpeg" media-type="image/jpeg" />
+<item id="obj927_sprite9" href="assets/images/obj927_sprite9.jpeg" media-type="image/jpeg" />
+<item id="obj927_sprite10" href="assets/images/obj927_sprite10.jpeg" media-type="image/jpeg" />
+<item id="obj927_sprite11" href="assets/images/obj927_sprite11.jpeg" media-type="image/jpeg" />
+<item id="obj927_sprite12" href="assets/images/obj927_sprite12.jpeg" media-type="image/jpeg" />
+<item id="obj927_sprite13" href="assets/images/obj927_sprite13.jpeg" media-type="image/jpeg" />
+<item id="obj927_sprite14" href="assets/images/obj927_sprite14.jpeg" media-type="image/jpeg" />
+<item id="obj927_sprite15" href="assets/images/obj927_sprite15.jpeg" media-type="image/jpeg" />
+<item id="obj927_sprite16" href="assets/images/obj927_sprite16.jpeg" media-type="image/jpeg" />
+<item id="obj927_sprite17" href="assets/images/obj927_sprite17.jpeg" media-type="image/jpeg" />
+<item id="obj927_sprite18" href="assets/images/obj927_sprite18.jpeg" media-type="image/jpeg" />
+<item id="obj927_sprite19" href="assets/images/obj927_sprite19.jpeg" media-type="image/jpeg" />
+<item id="obj927_sprite20" href="assets/images/obj927_sprite20.jpeg" media-type="image/jpeg" />
+<item id="obj927_sprite21" href="assets/images/obj927_sprite21.jpeg" media-type="image/jpeg" />
+<item id="obj927_sprite22" href="assets/images/obj927_sprite22.jpeg" media-type="image/jpeg" />
+<item id="obj927_sprite23" href="assets/images/obj927_sprite23.jpeg" media-type="image/jpeg" />
+<item id="obj927_sprite24" href="assets/images/obj927_sprite24.jpeg" media-type="image/jpeg" />
+<item id="obj927_sprite25" href="assets/images/obj927_sprite25.jpeg" media-type="image/jpeg" />
+<item id="obj927_sprite26" href="assets/images/obj927_sprite26.jpeg" media-type="image/jpeg" />
+<item id="obj927_sprite27" href="assets/images/obj927_sprite27.jpeg" media-type="image/jpeg" />
+<item id="obj927_sprite28" href="assets/images/obj927_sprite28.jpeg" media-type="image/jpeg" />
+<item id="obj927_sprite29" href="assets/images/obj927_sprite29.jpeg" media-type="image/jpeg" />
+<item id="obj927_sprite30" href="assets/images/obj927_sprite30.jpeg" media-type="image/jpeg" />
+<item id="obj927_sprite31" href="assets/images/obj927_sprite31.jpeg" media-type="image/jpeg" />
+<item id="obj927_sprite32" href="assets/images/obj927_sprite32.jpeg" media-type="image/jpeg" />
+<item id="obj927_sprite33" href="assets/images/obj927_sprite33.jpeg" media-type="image/jpeg" />
+<item id="obj927_sprite34" href="assets/images/obj927_sprite34.jpeg" media-type="image/jpeg" />
+<item id="obj927_sprite35" href="assets/images/obj927_sprite35.jpeg" media-type="image/jpeg" />
+<item id="obj927_sprite36" href="assets/images/obj927_sprite36.jpeg" media-type="image/jpeg" />
+<item id="obj5102_image" href="assets/images/obj5102_image.png" media-type="image/png" />
+<item id="thumbnail3" href="assets/3/thumbnail.png" media-type="image/png" />
+<item id="loading3" href="assets/3/loading.jpg" media-type="image/jpeg" />
+
+<!--page 3: end-->
+<!--page 4-->
+<item id="js4" href="assets/4/actions.js" media-type="text/javascript" />
+<item id="css4" href="assets/4/styles.css" media-type="text/css"/>
+<item id="page4" pageid="1435"
+      href="assets/4/page.xhtml" media-type="application/xhtml+xml" properties="svg scripted"
+      
+      />
+<item id="obj1437_image" href="assets/images/obj1437_image.jpeg" media-type="image/jpeg" />
+<item id="obj5188_sprite1" href="assets/images/obj5188_sprite1.png" media-type="image/png" />
+<item id="obj5188_sprite2" href="assets/images/obj5188_sprite2.png" media-type="image/png" />
+<item id="obj5188_sprite3" href="assets/images/obj5188_sprite3.png" media-type="image/png" />
+<item id="obj5188_sprite4" href="assets/images/obj5188_sprite4.png" media-type="image/png" />
+<item id="obj5188_sprite5" href="assets/images/obj5188_sprite5.png" media-type="image/png" />
+<item id="obj5188_sprite6" href="assets/images/obj5188_sprite6.png" media-type="image/png" />
+<item id="obj5188_sprite7" href="assets/images/obj5188_sprite7.png" media-type="image/png" />
+<item id="obj5188_sprite8" href="assets/images/obj5188_sprite8.png" media-type="image/png" />
+<item id="obj5188_sprite9" href="assets/images/obj5188_sprite9.png" media-type="image/png" />
+<item id="obj5188_sprite10" href="assets/images/obj5188_sprite10.png" media-type="image/png" />
+<item id="obj5188_sprite11" href="assets/images/obj5188_sprite11.png" media-type="image/png" />
+<item id="obj5188_sprite12" href="assets/images/obj5188_sprite12.png" media-type="image/png" />
+<item id="obj5188_sprite13" href="assets/images/obj5188_sprite13.png" media-type="image/png" />
+<item id="obj5188_sprite14" href="assets/images/obj5188_sprite14.png" media-type="image/png" />
+<item id="obj5188_sprite15" href="assets/images/obj5188_sprite15.png" media-type="image/png" />
+<item id="obj5188_sprite16" href="assets/images/obj5188_sprite16.png" media-type="image/png" />
+<item id="obj5188_sprite17" href="assets/images/obj5188_sprite17.png" media-type="image/png" />
+<item id="obj5188_sprite18" href="assets/images/obj5188_sprite18.png" media-type="image/png" />
+<item id="obj5188_sprite19" href="assets/images/obj5188_sprite19.png" media-type="image/png" />
+<item id="obj5188_sprite20" href="assets/images/obj5188_sprite20.png" media-type="image/png" />
+<item id="obj5188_sprite21" href="assets/images/obj5188_sprite21.png" media-type="image/png" />
+<item id="obj5188_sprite22" href="assets/images/obj5188_sprite22.png" media-type="image/png" />
+<item id="obj5188_sprite23" href="assets/images/obj5188_sprite23.png" media-type="image/png" />
+<item id="obj5188_sprite24" href="assets/images/obj5188_sprite24.png" media-type="image/png" />
+<item id="obj5188_sprite25" href="assets/images/obj5188_sprite25.png" media-type="image/png" />
+<item id="obj5188_sprite26" href="assets/images/obj5188_sprite26.png" media-type="image/png" />
+<item id="obj5188_sprite27" href="assets/images/obj5188_sprite27.png" media-type="image/png" />
+<item id="obj5188_sprite28" href="assets/images/obj5188_sprite28.png" media-type="image/png" />
+<item id="obj5188_sprite29" href="assets/images/obj5188_sprite29.png" media-type="image/png" />
+<item id="obj5188_sprite30" href="assets/images/obj5188_sprite30.png" media-type="image/png" />
+<item id="obj5188_sprite31" href="assets/images/obj5188_sprite31.png" media-type="image/png" />
+<item id="obj5188_sprite32" href="assets/images/obj5188_sprite32.png" media-type="image/png" />
+<item id="obj5188_sprite33" href="assets/images/obj5188_sprite33.png" media-type="image/png" />
+<item id="obj5188_sprite34" href="assets/images/obj5188_sprite34.png" media-type="image/png" />
+<item id="obj5188_sprite35" href="assets/images/obj5188_sprite35.png" media-type="image/png" />
+<item id="obj5188_sprite36" href="assets/images/obj5188_sprite36.png" media-type="image/png" />
+<item id="obj5188_sprite37" href="assets/images/obj5188_sprite37.png" media-type="image/png" />
+<item id="obj5188_sprite38" href="assets/images/obj5188_sprite38.png" media-type="image/png" />
+<item id="obj5188_sprite39" href="assets/images/obj5188_sprite39.png" media-type="image/png" />
+<item id="obj5188_sprite40" href="assets/images/obj5188_sprite40.png" media-type="image/png" />
+<item id="obj5188_sprite41" href="assets/images/obj5188_sprite41.png" media-type="image/png" />
+<item id="obj5188_sprite42" href="assets/images/obj5188_sprite42.png" media-type="image/png" />
+<item id="obj5188_sprite43" href="assets/images/obj5188_sprite43.png" media-type="image/png" />
+<item id="obj5188_sprite44" href="assets/images/obj5188_sprite44.png" media-type="image/png" />
+<item id="obj5188_sprite45" href="assets/images/obj5188_sprite45.png" media-type="image/png" />
+<item id="obj5188_sprite46" href="assets/images/obj5188_sprite46.png" media-type="image/png" />
+<item id="obj5188_sprite47" href="assets/images/obj5188_sprite47.png" media-type="image/png" />
+<item id="obj5188_sprite48" href="assets/images/obj5188_sprite48.png" media-type="image/png" />
+<item id="obj5188_sprite49" href="assets/images/obj5188_sprite49.png" media-type="image/png" />
+<item id="obj5188_sprite50" href="assets/images/obj5188_sprite50.png" media-type="image/png" />
+<item id="obj5188_sprite51" href="assets/images/obj5188_sprite51.png" media-type="image/png" />
+<item id="obj5188_sprite52" href="assets/images/obj5188_sprite52.png" media-type="image/png" />
+<item id="obj5188_sprite53" href="assets/images/obj5188_sprite53.png" media-type="image/png" />
+<item id="obj5188_sprite54" href="assets/images/obj5188_sprite54.png" media-type="image/png" />
+<item id="obj5188_sprite55" href="assets/images/obj5188_sprite55.png" media-type="image/png" />
+<item id="obj5188_sprite56" href="assets/images/obj5188_sprite56.png" media-type="image/png" />
+<item id="obj5188_sprite57" href="assets/images/obj5188_sprite57.png" media-type="image/png" />
+<item id="obj5188_sprite58" href="assets/images/obj5188_sprite58.png" media-type="image/png" />
+<item id="obj5188_sprite59" href="assets/images/obj5188_sprite59.png" media-type="image/png" />
+<item id="obj5188_sprite60" href="assets/images/obj5188_sprite60.png" media-type="image/png" />
+<item id="obj5188_sprite61" href="assets/images/obj5188_sprite61.png" media-type="image/png" />
+<item id="obj5188_sprite62" href="assets/images/obj5188_sprite62.png" media-type="image/png" />
+<item id="obj5188_sprite63" href="assets/images/obj5188_sprite63.png" media-type="image/png" />
+<item id="obj5188_sprite64" href="assets/images/obj5188_sprite64.png" media-type="image/png" />
+<item id="obj5188_sprite65" href="assets/images/obj5188_sprite65.png" media-type="image/png" />
+<item id="obj5188_sprite66" href="assets/images/obj5188_sprite66.png" media-type="image/png" />
+<item id="obj5188_sprite67" href="assets/images/obj5188_sprite67.png" media-type="image/png" />
+<item id="obj5188_sprite68" href="assets/images/obj5188_sprite68.png" media-type="image/png" />
+<item id="obj5188_sprite69" href="assets/images/obj5188_sprite69.png" media-type="image/png" />
+<item id="obj5188_sprite70" href="assets/images/obj5188_sprite70.png" media-type="image/png" />
+<item id="obj5188_sprite71" href="assets/images/obj5188_sprite71.png" media-type="image/png" />
+<item id="obj5188_sprite72" href="assets/images/obj5188_sprite72.png" media-type="image/png" />
+<item id="obj5188_sprite73" href="assets/images/obj5188_sprite73.png" media-type="image/png" />
+<item id="obj5188_sprite74" href="assets/images/obj5188_sprite74.png" media-type="image/png" />
+<item id="obj5188_sprite75" href="assets/images/obj5188_sprite75.png" media-type="image/png" />
+<item id="obj5188_sprite76" href="assets/images/obj5188_sprite76.png" media-type="image/png" />
+<item id="obj5188_sprite77" href="assets/images/obj5188_sprite77.png" media-type="image/png" />
+<item id="obj5188_sprite78" href="assets/images/obj5188_sprite78.png" media-type="image/png" />
+<item id="obj5188_sprite79" href="assets/images/obj5188_sprite79.png" media-type="image/png" />
+<item id="obj5188_sprite80" href="assets/images/obj5188_sprite80.png" media-type="image/png" />
+<item id="obj5188_sprite81" href="assets/images/obj5188_sprite81.png" media-type="image/png" />
+<item id="thumbnail4" href="assets/4/thumbnail.png" media-type="image/png" />
+<item id="loading4" href="assets/4/loading.jpg" media-type="image/jpeg" />
+
+<!--page 4: end-->
+<!--page 5-->
+<item id="js5" href="assets/5/actions.js" media-type="text/javascript" />
+<item id="css5" href="assets/5/styles.css" media-type="text/css"/>
+<item id="page5" pageid="1449"
+      href="assets/5/page.xhtml" media-type="application/xhtml+xml" properties="scripted"
+      
+      />
+<item id="obj1451_image" href="assets/images/obj1451_image.jpeg" media-type="image/jpeg" />
+<item id="thumbnail5" href="assets/5/thumbnail.png" media-type="image/png" />
+<item id="loading5" href="assets/5/loading.jpg" media-type="image/jpeg" />
+
+<!--page 5: end-->
+<!--page 6-->
+<item id="js6" href="assets/6/actions.js" media-type="text/javascript" />
+<item id="css6" href="assets/6/styles.css" media-type="text/css"/>
+<item id="page6" pageid="3"
+      href="assets/6/page.xhtml" media-type="application/xhtml+xml" properties="svg scripted"
+      
+      />
+<item id="obj32_sprite1" href="assets/images/obj32_sprite1.jpeg" media-type="image/jpeg" />
+<item id="obj32_sprite2" href="assets/images/obj32_sprite2.jpeg" media-type="image/jpeg" />
+<item id="obj32_sprite3" href="assets/images/obj32_sprite3.jpeg" media-type="image/jpeg" />
+<item id="obj32_sprite4" href="assets/images/obj32_sprite4.jpeg" media-type="image/jpeg" />
+<item id="obj32_sprite5" href="assets/images/obj32_sprite5.jpeg" media-type="image/jpeg" />
+<item id="obj32_sprite6" href="assets/images/obj32_sprite6.jpeg" media-type="image/jpeg" />
+<item id="obj32_sprite7" href="assets/images/obj32_sprite7.jpeg" media-type="image/jpeg" />
+<item id="obj32_sprite8" href="assets/images/obj32_sprite8.jpeg" media-type="image/jpeg" />
+<item id="obj32_sprite9" href="assets/images/obj32_sprite9.jpeg" media-type="image/jpeg" />
+<item id="obj32_sprite10" href="assets/images/obj32_sprite10.jpeg" media-type="image/jpeg" />
+<item id="obj32_sprite11" href="assets/images/obj32_sprite11.jpeg" media-type="image/jpeg" />
+<item id="obj32_sprite12" href="assets/images/obj32_sprite12.jpeg" media-type="image/jpeg" />
+<item id="obj32_sprite13" href="assets/images/obj32_sprite13.jpeg" media-type="image/jpeg" />
+<item id="obj32_sprite14" href="assets/images/obj32_sprite14.jpeg" media-type="image/jpeg" />
+<item id="obj32_sprite15" href="assets/images/obj32_sprite15.jpeg" media-type="image/jpeg" />
+<item id="obj32_sprite16" href="assets/images/obj32_sprite16.jpeg" media-type="image/jpeg" />
+<item id="obj32_sprite17" href="assets/images/obj32_sprite17.jpeg" media-type="image/jpeg" />
+<item id="obj32_sprite18" href="assets/images/obj32_sprite18.jpeg" media-type="image/jpeg" />
+<item id="obj32_sprite19" href="assets/images/obj32_sprite19.jpeg" media-type="image/jpeg" />
+<item id="obj32_sprite20" href="assets/images/obj32_sprite20.jpeg" media-type="image/jpeg" />
+<item id="obj32_sprite21" href="assets/images/obj32_sprite21.jpeg" media-type="image/jpeg" />
+<item id="obj32_sprite22" href="assets/images/obj32_sprite22.jpeg" media-type="image/jpeg" />
+<item id="obj32_sprite23" href="assets/images/obj32_sprite23.jpeg" media-type="image/jpeg" />
+<item id="obj32_sprite24" href="assets/images/obj32_sprite24.jpeg" media-type="image/jpeg" />
+<item id="obj32_sprite25" href="assets/images/obj32_sprite25.jpeg" media-type="image/jpeg" />
+<item id="obj32_sprite26" href="assets/images/obj32_sprite26.jpeg" media-type="image/jpeg" />
+<item id="obj32_sprite27" href="assets/images/obj32_sprite27.jpeg" media-type="image/jpeg" />
+<item id="obj32_sprite28" href="assets/images/obj32_sprite28.jpeg" media-type="image/jpeg" />
+<item id="obj32_sprite29" href="assets/images/obj32_sprite29.jpeg" media-type="image/jpeg" />
+<item id="obj32_sprite30" href="assets/images/obj32_sprite30.jpeg" media-type="image/jpeg" />
+<item id="obj32_sprite31" href="assets/images/obj32_sprite31.jpeg" media-type="image/jpeg" />
+<item id="obj32_sprite32" href="assets/images/obj32_sprite32.jpeg" media-type="image/jpeg" />
+<item id="obj21_image" href="assets/images/obj21_image.jpeg" media-type="image/jpeg" />
+<item id="image20" href="assets/images/ceu_boca.gif" media-type="image/gif" />
+<item id="obj24_image" href="assets/images/obj24_image.png" media-type="image/png" />
+<item id="image21" href="assets/images/Asset-3.svg" media-type="image/svg+xml" />
+<item id="image22" href="assets/images/Asset-2.svg" media-type="image/svg+xml" />
+<item id="image23" href="assets/images/Asset-1.svg" media-type="image/svg+xml" />
+<item id="obj5589_image" href="assets/images/obj5589_image.png" media-type="image/png" />
+<item id="obj5584_image" href="assets/images/obj5584_image.png" media-type="image/png" />
+<item id="obj5585_image" href="assets/images/obj5585_image.png" media-type="image/png" />
+<item id="thumbnail6" href="assets/6/thumbnail.png" media-type="image/png" />
+<item id="loading6" href="assets/6/loading.jpg" media-type="image/jpeg" />
+
+<!--page 6: end-->
+<!--page 7-->
+<item id="js7" href="assets/7/actions.js" media-type="text/javascript" />
+<item id="css7" href="assets/7/styles.css" media-type="text/css"/>
+<item id="page7" pageid="1682"
+      href="assets/7/page.xhtml" media-type="application/xhtml+xml" properties="scripted"
+      
+      />
+<item id="obj2342_sprite1" href="assets/images/obj2342_sprite1.jpeg" media-type="image/jpeg" />
+<item id="obj2342_sprite2" href="assets/images/obj2342_sprite2.jpeg" media-type="image/jpeg" />
+<item id="obj2342_sprite3" href="assets/images/obj2342_sprite3.jpeg" media-type="image/jpeg" />
+<item id="obj2342_sprite4" href="assets/images/obj2342_sprite4.jpeg" media-type="image/jpeg" />
+<item id="obj2342_sprite5" href="assets/images/obj2342_sprite5.jpeg" media-type="image/jpeg" />
+<item id="obj2342_sprite6" href="assets/images/obj2342_sprite6.jpeg" media-type="image/jpeg" />
+<item id="obj2342_sprite7" href="assets/images/obj2342_sprite7.jpeg" media-type="image/jpeg" />
+<item id="obj2342_sprite8" href="assets/images/obj2342_sprite8.jpeg" media-type="image/jpeg" />
+<item id="obj2342_sprite9" href="assets/images/obj2342_sprite9.jpeg" media-type="image/jpeg" />
+<item id="obj2342_sprite10" href="assets/images/obj2342_sprite10.jpeg" media-type="image/jpeg" />
+<item id="obj2342_sprite11" href="assets/images/obj2342_sprite11.jpeg" media-type="image/jpeg" />
+<item id="obj2342_sprite12" href="assets/images/obj2342_sprite12.jpeg" media-type="image/jpeg" />
+<item id="obj2342_sprite13" href="assets/images/obj2342_sprite13.jpeg" media-type="image/jpeg" />
+<item id="obj2342_sprite14" href="assets/images/obj2342_sprite14.jpeg" media-type="image/jpeg" />
+<item id="obj2342_sprite15" href="assets/images/obj2342_sprite15.jpeg" media-type="image/jpeg" />
+<item id="obj2342_sprite16" href="assets/images/obj2342_sprite16.jpeg" media-type="image/jpeg" />
+<item id="obj2342_sprite17" href="assets/images/obj2342_sprite17.jpeg" media-type="image/jpeg" />
+<item id="obj2342_sprite18" href="assets/images/obj2342_sprite18.jpeg" media-type="image/jpeg" />
+<item id="obj2342_sprite19" href="assets/images/obj2342_sprite19.jpeg" media-type="image/jpeg" />
+<item id="obj2342_sprite20" href="assets/images/obj2342_sprite20.jpeg" media-type="image/jpeg" />
+<item id="obj2342_sprite21" href="assets/images/obj2342_sprite21.jpeg" media-type="image/jpeg" />
+<item id="obj2342_sprite22" href="assets/images/obj2342_sprite22.jpeg" media-type="image/jpeg" />
+<item id="obj2342_sprite23" href="assets/images/obj2342_sprite23.jpeg" media-type="image/jpeg" />
+<item id="obj2342_sprite24" href="assets/images/obj2342_sprite24.jpeg" media-type="image/jpeg" />
+<item id="obj2342_sprite25" href="assets/images/obj2342_sprite25.jpeg" media-type="image/jpeg" />
+<item id="obj1737_image" href="assets/images/obj1737_image.png" media-type="image/png" />
+<item id="thumbnail7" href="assets/7/thumbnail.png" media-type="image/png" />
+<item id="loading7" href="assets/7/loading.jpg" media-type="image/jpeg" />
+
+<!--page 7: end-->
+<!--page 8-->
+<item id="js8" href="assets/8/actions.js" media-type="text/javascript" />
+<item id="css8" href="assets/8/styles.css" media-type="text/css"/>
+<item id="page8" pageid="169"
+      href="assets/8/page.xhtml" media-type="application/xhtml+xml" properties="svg scripted"
+      
+      />
+<item id="obj212_sprite1" href="assets/images/obj212_sprite1.jpeg" media-type="image/jpeg" />
+<item id="obj212_sprite3" href="assets/images/obj212_sprite3.jpeg" media-type="image/jpeg" />
+<item id="obj212_sprite4" href="assets/images/obj212_sprite4.jpeg" media-type="image/jpeg" />
+<item id="obj212_sprite5" href="assets/images/obj212_sprite5.jpeg" media-type="image/jpeg" />
+<item id="obj212_sprite6" href="assets/images/obj212_sprite6.jpeg" media-type="image/jpeg" />
+<item id="obj212_sprite7" href="assets/images/obj212_sprite7.jpeg" media-type="image/jpeg" />
+<item id="obj212_sprite8" href="assets/images/obj212_sprite8.jpeg" media-type="image/jpeg" />
+<item id="obj212_sprite9" href="assets/images/obj212_sprite9.jpeg" media-type="image/jpeg" />
+<item id="obj212_sprite10" href="assets/images/obj212_sprite10.jpeg" media-type="image/jpeg" />
+<item id="obj212_sprite11" href="assets/images/obj212_sprite11.jpeg" media-type="image/jpeg" />
+<item id="obj212_sprite12" href="assets/images/obj212_sprite12.jpeg" media-type="image/jpeg" />
+<item id="obj212_sprite13" href="assets/images/obj212_sprite13.jpeg" media-type="image/jpeg" />
+<item id="obj212_sprite14" href="assets/images/obj212_sprite14.jpeg" media-type="image/jpeg" />
+<item id="obj212_sprite15" href="assets/images/obj212_sprite15.jpeg" media-type="image/jpeg" />
+<item id="obj212_sprite16" href="assets/images/obj212_sprite16.jpeg" media-type="image/jpeg" />
+<item id="obj212_sprite17" href="assets/images/obj212_sprite17.jpeg" media-type="image/jpeg" />
+<item id="obj212_sprite18" href="assets/images/obj212_sprite18.jpeg" media-type="image/jpeg" />
+<item id="obj212_sprite19" href="assets/images/obj212_sprite19.jpeg" media-type="image/jpeg" />
+<item id="obj212_sprite20" href="assets/images/obj212_sprite20.jpeg" media-type="image/jpeg" />
+<item id="obj212_sprite21" href="assets/images/obj212_sprite21.jpeg" media-type="image/jpeg" />
+<item id="obj212_sprite22" href="assets/images/obj212_sprite22.jpeg" media-type="image/jpeg" />
+<item id="obj212_sprite23" href="assets/images/obj212_sprite23.jpeg" media-type="image/jpeg" />
+<item id="obj212_sprite24" href="assets/images/obj212_sprite24.jpeg" media-type="image/jpeg" />
+<item id="obj212_sprite25" href="assets/images/obj212_sprite25.jpeg" media-type="image/jpeg" />
+<item id="obj212_sprite26" href="assets/images/obj212_sprite26.jpeg" media-type="image/jpeg" />
+<item id="obj212_sprite27" href="assets/images/obj212_sprite27.jpeg" media-type="image/jpeg" />
+<item id="obj212_sprite28" href="assets/images/obj212_sprite28.jpeg" media-type="image/jpeg" />
+<item id="obj212_sprite29" href="assets/images/obj212_sprite29.jpeg" media-type="image/jpeg" />
+<item id="obj212_sprite30" href="assets/images/obj212_sprite30.jpeg" media-type="image/jpeg" />
+<item id="obj212_sprite31" href="assets/images/obj212_sprite31.jpeg" media-type="image/jpeg" />
+<item id="obj212_sprite32" href="assets/images/obj212_sprite32.jpeg" media-type="image/jpeg" />
+<item id="obj212_sprite33" href="assets/images/obj212_sprite33.jpeg" media-type="image/jpeg" />
+<item id="obj212_sprite34" href="assets/images/obj212_sprite34.jpeg" media-type="image/jpeg" />
+<item id="obj212_sprite35" href="assets/images/obj212_sprite35.jpeg" media-type="image/jpeg" />
+<item id="obj212_sprite36" href="assets/images/obj212_sprite36.jpeg" media-type="image/jpeg" />
+<item id="image24" href="assets/images/CARADEPAU.svg" media-type="image/svg+xml" />
+<item id="image25" href="assets/images/COMVERGONHA.svg" media-type="image/svg+xml" />
+<item id="image26" href="assets/images/NAOFAMAL.svg" media-type="image/svg+xml" />
+<item id="audio27" href="assets/audio/pinoquio_som.mp3" media-type="audio/mpeg" />
+<item id="thumbnail8" href="assets/8/thumbnail.png" media-type="image/png" />
+<item id="loading8" href="assets/8/loading.jpg" media-type="image/jpeg" />
+
+<!--page 8: end-->
+<!--page 9-->
+<item id="js9" href="assets/9/actions.js" media-type="text/javascript" />
+<item id="css9" href="assets/9/styles.css" media-type="text/css"/>
+<item id="page9" pageid="2450"
+      href="assets/9/page.xhtml" media-type="application/xhtml+xml" properties="scripted"
+      
+      />
+<item id="obj2459_sprite1" href="assets/images/obj2459_sprite1.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite2" href="assets/images/obj2459_sprite2.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite3" href="assets/images/obj2459_sprite3.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite4" href="assets/images/obj2459_sprite4.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite5" href="assets/images/obj2459_sprite5.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite6" href="assets/images/obj2459_sprite6.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite7" href="assets/images/obj2459_sprite7.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite8" href="assets/images/obj2459_sprite8.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite9" href="assets/images/obj2459_sprite9.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite10" href="assets/images/obj2459_sprite10.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite11" href="assets/images/obj2459_sprite11.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite12" href="assets/images/obj2459_sprite12.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite13" href="assets/images/obj2459_sprite13.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite14" href="assets/images/obj2459_sprite14.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite15" href="assets/images/obj2459_sprite15.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite16" href="assets/images/obj2459_sprite16.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite17" href="assets/images/obj2459_sprite17.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite18" href="assets/images/obj2459_sprite18.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite19" href="assets/images/obj2459_sprite19.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite20" href="assets/images/obj2459_sprite20.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite21" href="assets/images/obj2459_sprite21.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite22" href="assets/images/obj2459_sprite22.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite23" href="assets/images/obj2459_sprite23.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite24" href="assets/images/obj2459_sprite24.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite25" href="assets/images/obj2459_sprite25.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite26" href="assets/images/obj2459_sprite26.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite27" href="assets/images/obj2459_sprite27.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite28" href="assets/images/obj2459_sprite28.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite29" href="assets/images/obj2459_sprite29.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite30" href="assets/images/obj2459_sprite30.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite31" href="assets/images/obj2459_sprite31.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite32" href="assets/images/obj2459_sprite32.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite33" href="assets/images/obj2459_sprite33.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite34" href="assets/images/obj2459_sprite34.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite35" href="assets/images/obj2459_sprite35.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite36" href="assets/images/obj2459_sprite36.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite37" href="assets/images/obj2459_sprite37.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite38" href="assets/images/obj2459_sprite38.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite39" href="assets/images/obj2459_sprite39.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite40" href="assets/images/obj2459_sprite40.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite41" href="assets/images/obj2459_sprite41.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite42" href="assets/images/obj2459_sprite42.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite43" href="assets/images/obj2459_sprite43.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite44" href="assets/images/obj2459_sprite44.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite45" href="assets/images/obj2459_sprite45.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite46" href="assets/images/obj2459_sprite46.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite47" href="assets/images/obj2459_sprite47.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite48" href="assets/images/obj2459_sprite48.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite49" href="assets/images/obj2459_sprite49.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite50" href="assets/images/obj2459_sprite50.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite51" href="assets/images/obj2459_sprite51.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite52" href="assets/images/obj2459_sprite52.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite53" href="assets/images/obj2459_sprite53.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite54" href="assets/images/obj2459_sprite54.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite55" href="assets/images/obj2459_sprite55.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite56" href="assets/images/obj2459_sprite56.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite57" href="assets/images/obj2459_sprite57.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite58" href="assets/images/obj2459_sprite58.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite59" href="assets/images/obj2459_sprite59.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite60" href="assets/images/obj2459_sprite60.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite61" href="assets/images/obj2459_sprite61.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite62" href="assets/images/obj2459_sprite62.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite63" href="assets/images/obj2459_sprite63.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite64" href="assets/images/obj2459_sprite64.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite65" href="assets/images/obj2459_sprite65.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite66" href="assets/images/obj2459_sprite66.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite67" href="assets/images/obj2459_sprite67.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite68" href="assets/images/obj2459_sprite68.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite69" href="assets/images/obj2459_sprite69.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite70" href="assets/images/obj2459_sprite70.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite71" href="assets/images/obj2459_sprite71.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite72" href="assets/images/obj2459_sprite72.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite73" href="assets/images/obj2459_sprite73.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite74" href="assets/images/obj2459_sprite74.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite75" href="assets/images/obj2459_sprite75.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite76" href="assets/images/obj2459_sprite76.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite77" href="assets/images/obj2459_sprite77.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite78" href="assets/images/obj2459_sprite78.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite79" href="assets/images/obj2459_sprite79.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite80" href="assets/images/obj2459_sprite80.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite81" href="assets/images/obj2459_sprite81.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite82" href="assets/images/obj2459_sprite82.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite83" href="assets/images/obj2459_sprite83.jpeg" media-type="image/jpeg" />
+<item id="obj2459_sprite84" href="assets/images/obj2459_sprite84.jpeg" media-type="image/jpeg" />
+<item id="obj2457_image" href="assets/images/obj2457_image.png" media-type="image/png" />
+<item id="thumbnail9" href="assets/9/thumbnail.png" media-type="image/png" />
+<item id="loading9" href="assets/9/loading.jpg" media-type="image/jpeg" />
+
+<!--page 9: end-->
+<!--page 10-->
+<item id="js10" href="assets/10/actions.js" media-type="text/javascript" />
+<item id="css10" href="assets/10/styles.css" media-type="text/css"/>
+<item id="page10" pageid="2802"
+      href="assets/10/page.xhtml" media-type="application/xhtml+xml" properties="svg scripted"
+      
+      />
+<item id="obj2804_image" href="assets/images/obj2804_image.png" media-type="image/png" />
+<item id="image28" href="assets/images/cabecaquente.svg" media-type="image/svg+xml" />
+<item id="image29" href="assets/images/eprimo.svg" media-type="image/svg+xml" />
+<item id="image30" href="assets/images/solapino.svg" media-type="image/svg+xml" />
+<item id="obj2820_sprite1" href="assets/images/obj2820_sprite1.jpeg" media-type="image/jpeg" />
+<item id="obj2820_sprite2" href="assets/images/obj2820_sprite2.jpeg" media-type="image/jpeg" />
+<item id="obj2820_sprite3" href="assets/images/obj2820_sprite3.jpeg" media-type="image/jpeg" />
+<item id="obj2820_sprite4" href="assets/images/obj2820_sprite4.jpeg" media-type="image/jpeg" />
+<item id="obj2820_sprite5" href="assets/images/obj2820_sprite5.jpeg" media-type="image/jpeg" />
+<item id="obj2820_sprite6" href="assets/images/obj2820_sprite6.jpeg" media-type="image/jpeg" />
+<item id="obj2820_sprite7" href="assets/images/obj2820_sprite7.jpeg" media-type="image/jpeg" />
+<item id="obj2820_sprite8" href="assets/images/obj2820_sprite8.jpeg" media-type="image/jpeg" />
+<item id="obj2820_sprite9" href="assets/images/obj2820_sprite9.jpeg" media-type="image/jpeg" />
+<item id="obj2820_sprite10" href="assets/images/obj2820_sprite10.jpeg" media-type="image/jpeg" />
+<item id="obj2820_sprite11" href="assets/images/obj2820_sprite11.jpeg" media-type="image/jpeg" />
+<item id="obj2820_sprite12" href="assets/images/obj2820_sprite12.jpeg" media-type="image/jpeg" />
+<item id="obj2820_sprite13" href="assets/images/obj2820_sprite13.jpeg" media-type="image/jpeg" />
+<item id="obj2820_sprite14" href="assets/images/obj2820_sprite14.jpeg" media-type="image/jpeg" />
+<item id="obj2820_sprite15" href="assets/images/obj2820_sprite15.jpeg" media-type="image/jpeg" />
+<item id="obj2820_sprite16" href="assets/images/obj2820_sprite16.jpeg" media-type="image/jpeg" />
+<item id="obj2820_sprite17" href="assets/images/obj2820_sprite17.jpeg" media-type="image/jpeg" />
+<item id="obj2820_sprite18" href="assets/images/obj2820_sprite18.jpeg" media-type="image/jpeg" />
+<item id="obj2820_sprite19" href="assets/images/obj2820_sprite19.jpeg" media-type="image/jpeg" />
+<item id="obj2820_sprite20" href="assets/images/obj2820_sprite20.jpeg" media-type="image/jpeg" />
+<item id="obj2820_sprite21" href="assets/images/obj2820_sprite21.jpeg" media-type="image/jpeg" />
+<item id="obj2820_sprite22" href="assets/images/obj2820_sprite22.jpeg" media-type="image/jpeg" />
+<item id="obj2820_sprite23" href="assets/images/obj2820_sprite23.jpeg" media-type="image/jpeg" />
+<item id="obj2820_sprite24" href="assets/images/obj2820_sprite24.jpeg" media-type="image/jpeg" />
+<item id="thumbnail10" href="assets/10/thumbnail.png" media-type="image/png" />
+<item id="loading10" href="assets/10/loading.jpg" media-type="image/jpeg" />
+
+<!--page 10: end-->
+<!--page 11-->
+<item id="js11" href="assets/11/actions.js" media-type="text/javascript" />
+<item id="css11" href="assets/11/styles.css" media-type="text/css"/>
+<item id="page11" pageid="2930"
+      href="assets/11/page.xhtml" media-type="application/xhtml+xml" properties="scripted"
+      
+      />
+<item id="obj2942_sprite1" href="assets/images/obj2942_sprite1.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite2" href="assets/images/obj2942_sprite2.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite3" href="assets/images/obj2942_sprite3.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite4" href="assets/images/obj2942_sprite4.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite5" href="assets/images/obj2942_sprite5.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite6" href="assets/images/obj2942_sprite6.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite7" href="assets/images/obj2942_sprite7.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite8" href="assets/images/obj2942_sprite8.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite9" href="assets/images/obj2942_sprite9.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite10" href="assets/images/obj2942_sprite10.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite11" href="assets/images/obj2942_sprite11.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite12" href="assets/images/obj2942_sprite12.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite13" href="assets/images/obj2942_sprite13.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite14" href="assets/images/obj2942_sprite14.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite15" href="assets/images/obj2942_sprite15.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite16" href="assets/images/obj2942_sprite16.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite17" href="assets/images/obj2942_sprite17.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite18" href="assets/images/obj2942_sprite18.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite19" href="assets/images/obj2942_sprite19.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite20" href="assets/images/obj2942_sprite20.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite21" href="assets/images/obj2942_sprite21.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite22" href="assets/images/obj2942_sprite22.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite23" href="assets/images/obj2942_sprite23.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite24" href="assets/images/obj2942_sprite24.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite25" href="assets/images/obj2942_sprite25.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite26" href="assets/images/obj2942_sprite26.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite27" href="assets/images/obj2942_sprite27.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite28" href="assets/images/obj2942_sprite28.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite29" href="assets/images/obj2942_sprite29.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite30" href="assets/images/obj2942_sprite30.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite31" href="assets/images/obj2942_sprite31.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite32" href="assets/images/obj2942_sprite32.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite33" href="assets/images/obj2942_sprite33.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite34" href="assets/images/obj2942_sprite34.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite35" href="assets/images/obj2942_sprite35.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite36" href="assets/images/obj2942_sprite36.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite37" href="assets/images/obj2942_sprite37.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite38" href="assets/images/obj2942_sprite38.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite39" href="assets/images/obj2942_sprite39.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite40" href="assets/images/obj2942_sprite40.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite41" href="assets/images/obj2942_sprite41.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite42" href="assets/images/obj2942_sprite42.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite43" href="assets/images/obj2942_sprite43.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite44" href="assets/images/obj2942_sprite44.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite45" href="assets/images/obj2942_sprite45.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite46" href="assets/images/obj2942_sprite46.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite47" href="assets/images/obj2942_sprite47.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite48" href="assets/images/obj2942_sprite48.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite49" href="assets/images/obj2942_sprite49.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite50" href="assets/images/obj2942_sprite50.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite51" href="assets/images/obj2942_sprite51.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite52" href="assets/images/obj2942_sprite52.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite53" href="assets/images/obj2942_sprite53.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite54" href="assets/images/obj2942_sprite54.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite55" href="assets/images/obj2942_sprite55.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite56" href="assets/images/obj2942_sprite56.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite57" href="assets/images/obj2942_sprite57.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite58" href="assets/images/obj2942_sprite58.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite59" href="assets/images/obj2942_sprite59.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite60" href="assets/images/obj2942_sprite60.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite61" href="assets/images/obj2942_sprite61.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite62" href="assets/images/obj2942_sprite62.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite63" href="assets/images/obj2942_sprite63.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite64" href="assets/images/obj2942_sprite64.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite65" href="assets/images/obj2942_sprite65.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite66" href="assets/images/obj2942_sprite66.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite67" href="assets/images/obj2942_sprite67.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite68" href="assets/images/obj2942_sprite68.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite69" href="assets/images/obj2942_sprite69.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite70" href="assets/images/obj2942_sprite70.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite71" href="assets/images/obj2942_sprite71.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite72" href="assets/images/obj2942_sprite72.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite73" href="assets/images/obj2942_sprite73.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite74" href="assets/images/obj2942_sprite74.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite75" href="assets/images/obj2942_sprite75.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite76" href="assets/images/obj2942_sprite76.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite77" href="assets/images/obj2942_sprite77.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite78" href="assets/images/obj2942_sprite78.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite79" href="assets/images/obj2942_sprite79.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite80" href="assets/images/obj2942_sprite80.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite81" href="assets/images/obj2942_sprite81.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite82" href="assets/images/obj2942_sprite82.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite83" href="assets/images/obj2942_sprite83.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite84" href="assets/images/obj2942_sprite84.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite85" href="assets/images/obj2942_sprite85.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite86" href="assets/images/obj2942_sprite86.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite87" href="assets/images/obj2942_sprite87.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite88" href="assets/images/obj2942_sprite88.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite89" href="assets/images/obj2942_sprite89.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite90" href="assets/images/obj2942_sprite90.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite91" href="assets/images/obj2942_sprite91.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite92" href="assets/images/obj2942_sprite92.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite93" href="assets/images/obj2942_sprite93.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite94" href="assets/images/obj2942_sprite94.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite95" href="assets/images/obj2942_sprite95.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite96" href="assets/images/obj2942_sprite96.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite97" href="assets/images/obj2942_sprite97.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite98" href="assets/images/obj2942_sprite98.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite99" href="assets/images/obj2942_sprite99.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite100" href="assets/images/obj2942_sprite100.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite101" href="assets/images/obj2942_sprite101.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite102" href="assets/images/obj2942_sprite102.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite103" href="assets/images/obj2942_sprite103.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite104" href="assets/images/obj2942_sprite104.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite105" href="assets/images/obj2942_sprite105.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite106" href="assets/images/obj2942_sprite106.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite107" href="assets/images/obj2942_sprite107.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite108" href="assets/images/obj2942_sprite108.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite109" href="assets/images/obj2942_sprite109.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite110" href="assets/images/obj2942_sprite110.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite111" href="assets/images/obj2942_sprite111.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite112" href="assets/images/obj2942_sprite112.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite113" href="assets/images/obj2942_sprite113.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite114" href="assets/images/obj2942_sprite114.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite115" href="assets/images/obj2942_sprite115.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite116" href="assets/images/obj2942_sprite116.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite117" href="assets/images/obj2942_sprite117.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite118" href="assets/images/obj2942_sprite118.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite119" href="assets/images/obj2942_sprite119.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite120" href="assets/images/obj2942_sprite120.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite121" href="assets/images/obj2942_sprite121.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite122" href="assets/images/obj2942_sprite122.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite123" href="assets/images/obj2942_sprite123.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite124" href="assets/images/obj2942_sprite124.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite125" href="assets/images/obj2942_sprite125.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite126" href="assets/images/obj2942_sprite126.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite127" href="assets/images/obj2942_sprite127.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite128" href="assets/images/obj2942_sprite128.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite129" href="assets/images/obj2942_sprite129.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite130" href="assets/images/obj2942_sprite130.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite131" href="assets/images/obj2942_sprite131.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite132" href="assets/images/obj2942_sprite132.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite133" href="assets/images/obj2942_sprite133.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite134" href="assets/images/obj2942_sprite134.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite135" href="assets/images/obj2942_sprite135.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite136" href="assets/images/obj2942_sprite136.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite137" href="assets/images/obj2942_sprite137.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite138" href="assets/images/obj2942_sprite138.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite139" href="assets/images/obj2942_sprite139.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite140" href="assets/images/obj2942_sprite140.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite141" href="assets/images/obj2942_sprite141.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite142" href="assets/images/obj2942_sprite142.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite143" href="assets/images/obj2942_sprite143.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite144" href="assets/images/obj2942_sprite144.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite145" href="assets/images/obj2942_sprite145.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite146" href="assets/images/obj2942_sprite146.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite147" href="assets/images/obj2942_sprite147.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite148" href="assets/images/obj2942_sprite148.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite149" href="assets/images/obj2942_sprite149.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite150" href="assets/images/obj2942_sprite150.jpeg" media-type="image/jpeg" />
+<item id="obj2942_sprite151" href="assets/images/obj2942_sprite151.jpeg" media-type="image/jpeg" />
+<item id="obj2938_image" href="assets/images/obj2938_image.png" media-type="image/png" />
+<item id="obj2940_image" href="assets/images/obj2940_image.png" media-type="image/png" />
+<item id="thumbnail11" href="assets/11/thumbnail.png" media-type="image/png" />
+<item id="loading11" href="assets/11/loading.jpg" media-type="image/jpeg" />
+
+<!--page 11: end-->
+<!--page 12-->
+<item id="js12" href="assets/12/actions.js" media-type="text/javascript" />
+<item id="css12" href="assets/12/styles.css" media-type="text/css"/>
+<item id="page12" pageid="1843"
+      href="assets/12/page.xhtml" media-type="application/xhtml+xml" properties="scripted"
+      
+      />
+<item id="obj3590_sprite1" href="assets/images/obj3590_sprite1.jpeg" media-type="image/jpeg" />
+<item id="obj3590_sprite2" href="assets/images/obj3590_sprite2.jpeg" media-type="image/jpeg" />
+<item id="obj3590_sprite3" href="assets/images/obj3590_sprite3.jpeg" media-type="image/jpeg" />
+<item id="obj3590_sprite4" href="assets/images/obj3590_sprite4.jpeg" media-type="image/jpeg" />
+<item id="obj3590_sprite5" href="assets/images/obj3590_sprite5.jpeg" media-type="image/jpeg" />
+<item id="obj3590_sprite6" href="assets/images/obj3590_sprite6.jpeg" media-type="image/jpeg" />
+<item id="obj3590_sprite7" href="assets/images/obj3590_sprite7.jpeg" media-type="image/jpeg" />
+<item id="obj3590_sprite8" href="assets/images/obj3590_sprite8.jpeg" media-type="image/jpeg" />
+<item id="obj3590_sprite9" href="assets/images/obj3590_sprite9.jpeg" media-type="image/jpeg" />
+<item id="obj3590_sprite10" href="assets/images/obj3590_sprite10.jpeg" media-type="image/jpeg" />
+<item id="obj3590_sprite11" href="assets/images/obj3590_sprite11.jpeg" media-type="image/jpeg" />
+<item id="obj3590_sprite12" href="assets/images/obj3590_sprite12.jpeg" media-type="image/jpeg" />
+<item id="obj3590_sprite13" href="assets/images/obj3590_sprite13.jpeg" media-type="image/jpeg" />
+<item id="obj3590_sprite14" href="assets/images/obj3590_sprite14.jpeg" media-type="image/jpeg" />
+<item id="obj3590_sprite15" href="assets/images/obj3590_sprite15.jpeg" media-type="image/jpeg" />
+<item id="obj3590_sprite16" href="assets/images/obj3590_sprite16.jpeg" media-type="image/jpeg" />
+<item id="obj3590_sprite17" href="assets/images/obj3590_sprite17.jpeg" media-type="image/jpeg" />
+<item id="obj3590_sprite18" href="assets/images/obj3590_sprite18.jpeg" media-type="image/jpeg" />
+<item id="obj3590_sprite19" href="assets/images/obj3590_sprite19.jpeg" media-type="image/jpeg" />
+<item id="obj3590_sprite20" href="assets/images/obj3590_sprite20.jpeg" media-type="image/jpeg" />
+<item id="obj3590_sprite21" href="assets/images/obj3590_sprite21.jpeg" media-type="image/jpeg" />
+<item id="obj3590_sprite22" href="assets/images/obj3590_sprite22.jpeg" media-type="image/jpeg" />
+<item id="obj3590_sprite23" href="assets/images/obj3590_sprite23.jpeg" media-type="image/jpeg" />
+<item id="obj3590_sprite24" href="assets/images/obj3590_sprite24.jpeg" media-type="image/jpeg" />
+<item id="obj3590_sprite25" href="assets/images/obj3590_sprite25.jpeg" media-type="image/jpeg" />
+<item id="obj3590_sprite26" href="assets/images/obj3590_sprite26.jpeg" media-type="image/jpeg" />
+<item id="obj3590_sprite27" href="assets/images/obj3590_sprite27.jpeg" media-type="image/jpeg" />
+<item id="obj3590_sprite28" href="assets/images/obj3590_sprite28.jpeg" media-type="image/jpeg" />
+<item id="obj3590_sprite29" href="assets/images/obj3590_sprite29.jpeg" media-type="image/jpeg" />
+<item id="obj1851_image" href="assets/images/obj1851_image.png" media-type="image/png" />
+<item id="obj1854_image" href="assets/images/obj1854_image.png" media-type="image/png" />
+<item id="thumbnail12" href="assets/12/thumbnail.png" media-type="image/png" />
+<item id="loading12" href="assets/12/loading.jpg" media-type="image/jpeg" />
+
+<!--page 12: end-->
+<!--page 13-->
+<item id="js13" href="assets/13/actions.js" media-type="text/javascript" />
+<item id="css13" href="assets/13/styles.css" media-type="text/css"/>
+<item id="page13" pageid="1911"
+      href="assets/13/page.xhtml" media-type="application/xhtml+xml" properties="scripted"
+      
+      />
+<item id="obj3731_sprite1" href="assets/images/obj3731_sprite1.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite2" href="assets/images/obj3731_sprite2.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite3" href="assets/images/obj3731_sprite3.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite4" href="assets/images/obj3731_sprite4.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite5" href="assets/images/obj3731_sprite5.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite6" href="assets/images/obj3731_sprite6.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite7" href="assets/images/obj3731_sprite7.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite8" href="assets/images/obj3731_sprite8.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite9" href="assets/images/obj3731_sprite9.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite10" href="assets/images/obj3731_sprite10.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite11" href="assets/images/obj3731_sprite11.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite12" href="assets/images/obj3731_sprite12.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite13" href="assets/images/obj3731_sprite13.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite14" href="assets/images/obj3731_sprite14.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite15" href="assets/images/obj3731_sprite15.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite16" href="assets/images/obj3731_sprite16.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite17" href="assets/images/obj3731_sprite17.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite18" href="assets/images/obj3731_sprite18.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite19" href="assets/images/obj3731_sprite19.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite20" href="assets/images/obj3731_sprite20.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite21" href="assets/images/obj3731_sprite21.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite22" href="assets/images/obj3731_sprite22.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite23" href="assets/images/obj3731_sprite23.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite24" href="assets/images/obj3731_sprite24.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite25" href="assets/images/obj3731_sprite25.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite26" href="assets/images/obj3731_sprite26.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite27" href="assets/images/obj3731_sprite27.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite28" href="assets/images/obj3731_sprite28.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite29" href="assets/images/obj3731_sprite29.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite30" href="assets/images/obj3731_sprite30.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite31" href="assets/images/obj3731_sprite31.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite32" href="assets/images/obj3731_sprite32.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite33" href="assets/images/obj3731_sprite33.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite34" href="assets/images/obj3731_sprite34.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite35" href="assets/images/obj3731_sprite35.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite36" href="assets/images/obj3731_sprite36.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite37" href="assets/images/obj3731_sprite37.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite38" href="assets/images/obj3731_sprite38.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite39" href="assets/images/obj3731_sprite39.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite40" href="assets/images/obj3731_sprite40.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite41" href="assets/images/obj3731_sprite41.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite42" href="assets/images/obj3731_sprite42.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite43" href="assets/images/obj3731_sprite43.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite44" href="assets/images/obj3731_sprite44.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite45" href="assets/images/obj3731_sprite45.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite46" href="assets/images/obj3731_sprite46.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite47" href="assets/images/obj3731_sprite47.jpeg" media-type="image/jpeg" />
+<item id="obj3731_sprite48" href="assets/images/obj3731_sprite48.jpeg" media-type="image/jpeg" />
+<item id="obj1913_image" href="assets/images/obj1913_image.png" media-type="image/png" />
+<item id="thumbnail13" href="assets/13/thumbnail.png" media-type="image/png" />
+<item id="loading13" href="assets/13/loading.jpg" media-type="image/jpeg" />
+
+<!--page 13: end-->
+<!--page 14-->
+<item id="js14" href="assets/14/actions.js" media-type="text/javascript" />
+<item id="css14" href="assets/14/styles.css" media-type="text/css"/>
+<item id="page14" pageid="430"
+      href="assets/14/page.xhtml" media-type="application/xhtml+xml" properties="svg scripted"
+      
+      />
+<item id="obj431_sprite1" href="assets/images/obj431_sprite1.jpeg" media-type="image/jpeg" />
+<item id="obj431_sprite5" href="assets/images/obj431_sprite5.jpeg" media-type="image/jpeg" />
+<item id="obj431_sprite6" href="assets/images/obj431_sprite6.jpeg" media-type="image/jpeg" />
+<item id="obj431_sprite7" href="assets/images/obj431_sprite7.jpeg" media-type="image/jpeg" />
+<item id="obj431_sprite8" href="assets/images/obj431_sprite8.jpeg" media-type="image/jpeg" />
+<item id="obj431_sprite9" href="assets/images/obj431_sprite9.jpeg" media-type="image/jpeg" />
+<item id="obj431_sprite10" href="assets/images/obj431_sprite10.jpeg" media-type="image/jpeg" />
+<item id="obj431_sprite11" href="assets/images/obj431_sprite11.jpeg" media-type="image/jpeg" />
+<item id="obj431_sprite12" href="assets/images/obj431_sprite12.jpeg" media-type="image/jpeg" />
+<item id="obj431_sprite13" href="assets/images/obj431_sprite13.jpeg" media-type="image/jpeg" />
+<item id="audio31" href="assets/audio/tagarela.mp3" media-type="audio/mpeg" />
+<item id="video32" href="assets/video/TAGARELA02.mp4" media-type="video/mp4" />
+<item id="image33" href="assets/images/tagarela.svg" media-type="image/svg+xml" />
+<item id="thumbnail14" href="assets/14/thumbnail.png" media-type="image/png" />
+<item id="loading14" href="assets/14/loading.jpg" media-type="image/jpeg" />
+
+<!--page 14: end-->
+<!--page 15-->
+<item id="js15" href="assets/15/actions.js" media-type="text/javascript" />
+<item id="css15" href="assets/15/styles.css" media-type="text/css"/>
+<item id="page15" pageid="3961"
+      href="assets/15/page.xhtml" media-type="application/xhtml+xml" properties="scripted"
+      
+      />
+<item id="obj3969_sprite1" href="assets/images/obj3969_sprite1.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite2" href="assets/images/obj3969_sprite2.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite3" href="assets/images/obj3969_sprite3.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite4" href="assets/images/obj3969_sprite4.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite5" href="assets/images/obj3969_sprite5.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite6" href="assets/images/obj3969_sprite6.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite7" href="assets/images/obj3969_sprite7.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite8" href="assets/images/obj3969_sprite8.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite9" href="assets/images/obj3969_sprite9.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite10" href="assets/images/obj3969_sprite10.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite11" href="assets/images/obj3969_sprite11.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite12" href="assets/images/obj3969_sprite12.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite13" href="assets/images/obj3969_sprite13.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite14" href="assets/images/obj3969_sprite14.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite15" href="assets/images/obj3969_sprite15.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite16" href="assets/images/obj3969_sprite16.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite17" href="assets/images/obj3969_sprite17.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite18" href="assets/images/obj3969_sprite18.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite19" href="assets/images/obj3969_sprite19.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite20" href="assets/images/obj3969_sprite20.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite21" href="assets/images/obj3969_sprite21.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite22" href="assets/images/obj3969_sprite22.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite23" href="assets/images/obj3969_sprite23.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite24" href="assets/images/obj3969_sprite24.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite25" href="assets/images/obj3969_sprite25.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite26" href="assets/images/obj3969_sprite26.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite27" href="assets/images/obj3969_sprite27.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite28" href="assets/images/obj3969_sprite28.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite29" href="assets/images/obj3969_sprite29.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite30" href="assets/images/obj3969_sprite30.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite31" href="assets/images/obj3969_sprite31.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite32" href="assets/images/obj3969_sprite32.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite33" href="assets/images/obj3969_sprite33.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite34" href="assets/images/obj3969_sprite34.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite35" href="assets/images/obj3969_sprite35.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite36" href="assets/images/obj3969_sprite36.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite37" href="assets/images/obj3969_sprite37.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite38" href="assets/images/obj3969_sprite38.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite39" href="assets/images/obj3969_sprite39.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite40" href="assets/images/obj3969_sprite40.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite41" href="assets/images/obj3969_sprite41.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite42" href="assets/images/obj3969_sprite42.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite43" href="assets/images/obj3969_sprite43.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite44" href="assets/images/obj3969_sprite44.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite45" href="assets/images/obj3969_sprite45.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite46" href="assets/images/obj3969_sprite46.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite47" href="assets/images/obj3969_sprite47.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite48" href="assets/images/obj3969_sprite48.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite49" href="assets/images/obj3969_sprite49.jpeg" media-type="image/jpeg" />
+<item id="obj3969_sprite50" href="assets/images/obj3969_sprite50.jpeg" media-type="image/jpeg" />
+<item id="obj4181_image" href="assets/images/obj4181_image.png" media-type="image/png" />
+<item id="obj4182_image" href="assets/images/obj4182_image.png" media-type="image/png" />
+<item id="obj4183_image" href="assets/images/obj4183_image.png" media-type="image/png" />
+<item id="thumbnail15" href="assets/15/thumbnail.png" media-type="image/png" />
+<item id="loading15" href="assets/15/loading.jpg" media-type="image/jpeg" />
+
+<!--page 15: end-->
+<!--page 16-->
+<item id="js16" href="assets/16/actions.js" media-type="text/javascript" />
+<item id="css16" href="assets/16/styles.css" media-type="text/css"/>
+<item id="page16" pageid="1988"
+      href="assets/16/page.xhtml" media-type="application/xhtml+xml" properties="scripted"
+      
+      />
+<item id="video34" href="assets/video/imagens13_1.mp4" media-type="video/mp4" />
+<item id="obj1993_image" href="assets/images/obj1993_image.png" media-type="image/png" />
+<item id="obj1990_image" href="assets/images/obj1990_image.png" media-type="image/png" />
+<item id="thumbnail16" href="assets/16/thumbnail.png" media-type="image/png" />
+<item id="loading16" href="assets/16/loading.jpg" media-type="image/jpeg" />
+
+<!--page 16: end-->
+<!--page 17-->
+<item id="js17" href="assets/17/actions.js" media-type="text/javascript" />
+<item id="css17" href="assets/17/styles.css" media-type="text/css"/>
+<item id="page17" pageid="2006"
+      href="assets/17/page.xhtml" media-type="application/xhtml+xml" properties="scripted"
+      
+      />
+<item id="obj2011_image" href="assets/images/obj2011_image.png" media-type="image/png" />
+<item id="obj2008_image" href="assets/images/obj2008_image.png" media-type="image/png" />
+<item id="obj4392_sprite1" href="assets/images/obj4392_sprite1.jpeg" media-type="image/jpeg" />
+<item id="obj4392_sprite2" href="assets/images/obj4392_sprite2.jpeg" media-type="image/jpeg" />
+<item id="obj4392_sprite3" href="assets/images/obj4392_sprite3.jpeg" media-type="image/jpeg" />
+<item id="obj4392_sprite4" href="assets/images/obj4392_sprite4.jpeg" media-type="image/jpeg" />
+<item id="obj4392_sprite5" href="assets/images/obj4392_sprite5.jpeg" media-type="image/jpeg" />
+<item id="obj4392_sprite6" href="assets/images/obj4392_sprite6.jpeg" media-type="image/jpeg" />
+<item id="obj4392_sprite7" href="assets/images/obj4392_sprite7.jpeg" media-type="image/jpeg" />
+<item id="obj4392_sprite8" href="assets/images/obj4392_sprite8.jpeg" media-type="image/jpeg" />
+<item id="obj4392_sprite9" href="assets/images/obj4392_sprite9.jpeg" media-type="image/jpeg" />
+<item id="obj4392_sprite10" href="assets/images/obj4392_sprite10.jpeg" media-type="image/jpeg" />
+<item id="obj4392_sprite11" href="assets/images/obj4392_sprite11.jpeg" media-type="image/jpeg" />
+<item id="obj4392_sprite12" href="assets/images/obj4392_sprite12.jpeg" media-type="image/jpeg" />
+<item id="obj4392_sprite13" href="assets/images/obj4392_sprite13.jpeg" media-type="image/jpeg" />
+<item id="obj4392_sprite14" href="assets/images/obj4392_sprite14.jpeg" media-type="image/jpeg" />
+<item id="obj4392_sprite15" href="assets/images/obj4392_sprite15.jpeg" media-type="image/jpeg" />
+<item id="obj4392_sprite16" href="assets/images/obj4392_sprite16.jpeg" media-type="image/jpeg" />
+<item id="obj4392_sprite17" href="assets/images/obj4392_sprite17.jpeg" media-type="image/jpeg" />
+<item id="obj4392_sprite18" href="assets/images/obj4392_sprite18.jpeg" media-type="image/jpeg" />
+<item id="obj4392_sprite20" href="assets/images/obj4392_sprite20.jpeg" media-type="image/jpeg" />
+<item id="obj4392_sprite21" href="assets/images/obj4392_sprite21.jpeg" media-type="image/jpeg" />
+<item id="obj4392_sprite22" href="assets/images/obj4392_sprite22.jpeg" media-type="image/jpeg" />
+<item id="obj4392_sprite23" href="assets/images/obj4392_sprite23.jpeg" media-type="image/jpeg" />
+<item id="obj4392_sprite24" href="assets/images/obj4392_sprite24.jpeg" media-type="image/jpeg" />
+<item id="obj4597_image" href="assets/images/obj4597_image.png" media-type="image/png" />
+<item id="thumbnail17" href="assets/17/thumbnail.png" media-type="image/png" />
+<item id="loading17" href="assets/17/loading.jpg" media-type="image/jpeg" />
+
+<!--page 17: end-->
+<!--page 18-->
+<item id="js18" href="assets/18/actions.js" media-type="text/javascript" />
+<item id="css18" href="assets/18/styles.css" media-type="text/css"/>
+<item id="page18" pageid="1924"
+      href="assets/18/page.xhtml" media-type="application/xhtml+xml" properties="scripted"
+      
+      />
+<item id="obj1925_image" href="assets/images/obj1925_image.jpeg" media-type="image/jpeg" />
+<item id="audio35" href="assets/audio/886d7570-c24c-11eb-b10f-3141355ae914.mp3" media-type="audio/mpeg" />
+<item id="obj4499_image" href="assets/images/obj4499_image.png" media-type="image/png" />
+<item id="obj4504_image" href="assets/images/obj4504_image.png" media-type="image/png" />
+<item id="thumbnail18" href="assets/18/thumbnail.png" media-type="image/png" />
+<item id="loading18" href="assets/18/loading.jpg" media-type="image/jpeg" />
+
+<!--page 18: end-->
+<!--page 19-->
+<item id="js19" href="assets/19/actions.js" media-type="text/javascript" />
+<item id="css19" href="assets/19/styles.css" media-type="text/css"/>
+<item id="page19" pageid="4517"
+      href="assets/19/page.xhtml" media-type="application/xhtml+xml" properties="svg scripted"
+      
+      />
+<item id="image36" href="assets/images/paginafinal-2.svg" media-type="image/svg+xml" />
+<item id="image37" href="assets/images/logomaralto_edicoes.gif" media-type="image/gif" />
+<item id="thumbnail19" href="assets/19/thumbnail.png" media-type="image/png" />
+<item id="loading19" href="assets/19/loading.jpg" media-type="image/jpeg" />
+
+<!--page 19: end-->
+<!--page 20-->
+<item id="js20" href="assets/20/actions.js" media-type="text/javascript" />
+<item id="css20" href="assets/20/styles.css" media-type="text/css"/>
+<item id="page20" pageid="1951"
+      href="assets/20/page.xhtml" media-type="application/xhtml+xml" properties="scripted"
+      
+      />
+<item id="obj5276_sprite1" href="assets/images/obj5276_sprite1.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite2" href="assets/images/obj5276_sprite2.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite3" href="assets/images/obj5276_sprite3.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite4" href="assets/images/obj5276_sprite4.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite5" href="assets/images/obj5276_sprite5.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite6" href="assets/images/obj5276_sprite6.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite7" href="assets/images/obj5276_sprite7.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite8" href="assets/images/obj5276_sprite8.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite9" href="assets/images/obj5276_sprite9.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite10" href="assets/images/obj5276_sprite10.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite11" href="assets/images/obj5276_sprite11.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite12" href="assets/images/obj5276_sprite12.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite13" href="assets/images/obj5276_sprite13.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite14" href="assets/images/obj5276_sprite14.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite15" href="assets/images/obj5276_sprite15.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite16" href="assets/images/obj5276_sprite16.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite17" href="assets/images/obj5276_sprite17.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite18" href="assets/images/obj5276_sprite18.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite19" href="assets/images/obj5276_sprite19.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite20" href="assets/images/obj5276_sprite20.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite21" href="assets/images/obj5276_sprite21.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite22" href="assets/images/obj5276_sprite22.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite23" href="assets/images/obj5276_sprite23.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite24" href="assets/images/obj5276_sprite24.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite25" href="assets/images/obj5276_sprite25.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite26" href="assets/images/obj5276_sprite26.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite27" href="assets/images/obj5276_sprite27.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite28" href="assets/images/obj5276_sprite28.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite29" href="assets/images/obj5276_sprite29.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite30" href="assets/images/obj5276_sprite30.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite31" href="assets/images/obj5276_sprite31.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite32" href="assets/images/obj5276_sprite32.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite33" href="assets/images/obj5276_sprite33.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite34" href="assets/images/obj5276_sprite34.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite35" href="assets/images/obj5276_sprite35.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite36" href="assets/images/obj5276_sprite36.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite37" href="assets/images/obj5276_sprite37.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite38" href="assets/images/obj5276_sprite38.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite39" href="assets/images/obj5276_sprite39.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite40" href="assets/images/obj5276_sprite40.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite41" href="assets/images/obj5276_sprite41.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite42" href="assets/images/obj5276_sprite42.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite43" href="assets/images/obj5276_sprite43.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite44" href="assets/images/obj5276_sprite44.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite45" href="assets/images/obj5276_sprite45.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite46" href="assets/images/obj5276_sprite46.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite47" href="assets/images/obj5276_sprite47.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite48" href="assets/images/obj5276_sprite48.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite49" href="assets/images/obj5276_sprite49.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite50" href="assets/images/obj5276_sprite50.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite51" href="assets/images/obj5276_sprite51.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite52" href="assets/images/obj5276_sprite52.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite53" href="assets/images/obj5276_sprite53.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite54" href="assets/images/obj5276_sprite54.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite55" href="assets/images/obj5276_sprite55.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite56" href="assets/images/obj5276_sprite56.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite57" href="assets/images/obj5276_sprite57.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite58" href="assets/images/obj5276_sprite58.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite59" href="assets/images/obj5276_sprite59.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite60" href="assets/images/obj5276_sprite60.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite61" href="assets/images/obj5276_sprite61.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite62" href="assets/images/obj5276_sprite62.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite63" href="assets/images/obj5276_sprite63.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite64" href="assets/images/obj5276_sprite64.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite65" href="assets/images/obj5276_sprite65.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite66" href="assets/images/obj5276_sprite66.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite67" href="assets/images/obj5276_sprite67.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite68" href="assets/images/obj5276_sprite68.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite69" href="assets/images/obj5276_sprite69.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite70" href="assets/images/obj5276_sprite70.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite71" href="assets/images/obj5276_sprite71.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite72" href="assets/images/obj5276_sprite72.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite73" href="assets/images/obj5276_sprite73.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite74" href="assets/images/obj5276_sprite74.jpeg" media-type="image/jpeg" />
+<item id="obj5276_sprite75" href="assets/images/obj5276_sprite75.jpeg" media-type="image/jpeg" />
+<item id="thumbnail20" href="assets/20/thumbnail.png" media-type="image/png" />
+<item id="loading20" href="assets/20/loading.jpg" media-type="image/jpeg" />
+
+<!--page 20: end-->
+	</manifest>
+	
+	<spine page-progression-direction="ltr">
+		<itemref idref="page1" />
+<itemref idref="page2" />
+<itemref idref="page3" />
+<itemref idref="page4" />
+<itemref idref="page5" />
+<itemref idref="page6" />
+<itemref idref="page7" />
+<itemref idref="page8" />
+<itemref idref="page9" />
+<itemref idref="page10" />
+<itemref idref="page11" />
+<itemref idref="page12" />
+<itemref idref="page13" />
+<itemref idref="page14" />
+<itemref idref="page15" />
+<itemref idref="page16" />
+<itemref idref="page17" />
+<itemref idref="page18" />
+<itemref idref="page19" />
+<itemref idref="page20" />
+	</spine>
+	
+	<guide> 
+      <reference type="cover" title="Cover" href="assets/1/page.xhtml"/>
+      <reference type="text" title="Story start" href="assets/2/page.xhtml"/>
+  </guide>	
+</package>
